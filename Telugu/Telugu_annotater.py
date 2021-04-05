@@ -38,9 +38,16 @@ def check_subject_object(dependency, pos_tag):
     global subject_object
     global object_subject  
     verb_indexes={}
-    for lemma in pos_tag:
-        if lemma[2]=='VERB':
-            verb_indexes[lemma[0]]=[-1, -1, "", "", lemma[1], "", "", "", -1] # subj index, object index, subj lemma, obj lemma, verb lemma, subj feats, verb feats, obj feats
+    print("---------------------------------")
+    for lemma in dependency:
+        if lemma[2]=='root':
+            verb_indexes[lemma[4]]=[-1, -1, "", "", lemma[1], "", "", "", -1] # subj index, object index, subj lemma, obj lemma, verb lemma, subj feats, verb feats, obj feats
+    # for lemma in pos_tag:
+    #     if lemma[0]=="is" or lemma[1]=="is" or lemma[2]=="is":
+    #         print(lemma,"LOLLLLLLLLLLLLLLLLLLLLLL")
+    #         SystemExit()
+    #     if lemma[2]=='VERB':
+    #         verb_indexes[lemma[0]]=[-1, -1, "", "", lemma[1], "", "", "", -1] # subj index, object index, subj lemma, obj lemma, verb lemma, subj feats, verb feats, obj feats
     for lemma in dependency:
         if 'nsubj' in lemma[2] or 'csubj' in lemma[2]:
             if not (lemma[0] in verb_indexes):
@@ -116,15 +123,24 @@ def check_subject_object(dependency, pos_tag):
         for v in verb_indexes:
             if v==index+1:
                 # sentence+=str(lemma[1])+f"(VERB{verb_indexes[v][8]})"+" "
-                a=f"(VERB{verb_indexes[v][8]})"+" - "+verb_indexes[v][6]
+                if verb_indexes[v][6] is None:
+                    a=f"(VERB{verb_indexes[v][8]})"+" - "
+                else:    
+                    a=f"(VERB{verb_indexes[v][8]})"+" - "+verb_indexes[v][6]
                 print(a)
                 # print(sentence+"1")
             elif verb_indexes[v][0]==index+1:
-                a=f"(SUBJECT{verb_indexes[v][8]})"+" - "+verb_indexes[v][5]
+                if verb_indexes[v][5] is None:
+                    a=f"(SUBJECT{verb_indexes[v][8]})"+" - "
+                else:    
+                    a=f"(SUBJECT{verb_indexes[v][8]})"+" - "+verb_indexes[v][5]
                 print(a)
 
             elif verb_indexes[v][1]==index+1:
-                a=f"(OBJECT{verb_indexes[v][8]})"+" - "+verb_indexes[v][7]
+                if verb_indexes[v][7] is None:
+                    a=f"(OBJECT{verb_indexes[v][8]})"+" - "
+                else:    
+                    a=f"(OBJECT{verb_indexes[v][8]})"+" - "+verb_indexes[v][7]
                 print(a)
         if flag==0:
             sentence+=lemma[1]+" "
@@ -186,6 +202,8 @@ def check_subject_object(dependency, pos_tag):
             file1.close() 
             object_subject+=1
             print("OBJECT SUBJECT")
+    print("---------------------------------")
+    
 
 def check_genitives(dependency, pos_tag, sent):
     global genitive_noun
@@ -329,8 +347,8 @@ def check_pos(pos_tag):
 
 # ==== MAIN: English ====
 
-data_file = open("./data.txt", "r")
-nlp_en = stanza.Pipeline('en') # This sets up a default neural pipeline in English
+data_file = open("./sentences_te.txt", "r")
+nlp_en = stanza.Pipeline('te') # This sets up a default neural pipeline in English
 # doc = nlp_en("Barack Obama was born in Hawaii.  He was elected president in 2008.")
 # this prints the dependencies in a human-readable format
 # ==== MAIN: Hindi ====
@@ -357,8 +375,8 @@ adverb_verb=0
 aux_verb=0
 verb_aux=0
 pos_tag_dict={}
-english_data_file=open("./data.txt", "r")
-for i in range(100):
+english_data_file=open("./sentences_te.txt", "r")
+for i in range(702):
     sent=data_file.readline()
     docs = nlp_en(sent)
     dep=(get_dependencies(docs, 1))
