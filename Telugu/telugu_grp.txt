@@ -1,0 +1,1007 @@
+------------------------------
+------------------------------
+
+ఈ లోగానే టిడిపి అభ్యర్ధులు(SUBJECT1) తొందరపడుతున్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+ఇకపోతే రంగస్థలం సినిమాకు మొదటి రోజే(OBJECT1) చాలా వరకు పాజిటివ్(SUBJECT1) టాక్ వచ్చింది(VERB1) . 
+(OBJECT1) - Case=gen|Number=sin|Gender=neu|Person=3
+(SUBJECT1) - Case=|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+OSV
+OBJECT SUBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+చంద్రబాబుకు(SUBJECT1) , కేసీఆర్కు(OBJECT1) చాలా తేడా ఉందని(VERB1) అన్నారు . 
+(SUBJECT1) - Case=gen|Number=sin|Gender=masc|Person=3 
+(OBJECT1) - Case=gen|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=|Gender=|Person=3 
+SOV
+SUBJECT OBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+పత్తికొండ నియోజకవర్గం ఇన్ చార్జి శ్రీదేవి సమన్వయంతో జగన్ పాదయాత్ర పొడుగూతా జనాలు(SUBJECT1) విపరీతంగా హాజరవుతున్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ముకుంద సినిమాతో టాలీవుడ్ ఎంట్రీ ఇచ్చిన పూజా హెగ్డే(SUBJECT1) ఆ సినిమాలో తన క్యూట్ లుక్స్ తో అలరించింది(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=fem|Person=3 
+(VERB1) - Case=|Number=sin|Gender=fem|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+టీడీపీతో పొత్తు పెట్టుకోవాలని ఆ పార్టీ(SUBJECT1) భావిస్తోంది(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఇక్కడే అందరకీ అనుమానాలు(OBJECT1) మొదలయ్యాయి(VERB1) . 
+(OBJECT1) - Case=nom|Number=pl|Gender=neu|Person=2
+(VERB1) - Case=|Number=pl|Gender=neu|Person=2
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+దీంతో అందులో సగం డబ్బుని నిర్మాత(SUBJECT1) తిరిగి ఇచ్చేశారు(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+పాదయాత్రను ముగించుకొని గురువారం నాడు జగన్(SUBJECT1) తిరుపతికి చేరుకొన్నారు(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఆమె ఓ డాక్టర్ని(OBJECT1) పెళ్లి చేసుకోబోతున్నట్లుగా సోషల్ మీడియాలో వార్తలు(SUBJECT1) విపరీతంగా హల్చల్ చేస్తున్నాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(OBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+SOV
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+కోహ్లీ(SUBJECT1) జడేజా(OBJECT1) వైపు ఓ వింతగా ఆశ్చర్యంతో చూశాడు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(OBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3 
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అల్లు అర్జున్ ఇటీవలి సినిమా(SUBJECT1) థియేటర్ల వద్ద కన్నా వెబ్ మీడియాలో , టీవీలో బాగా హిట్ అయ్యాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఫస్టాఫ్(SUBJECT1) మొత్తాన్ని హీరో క్యారెక్టరైజేషన్ కోసం ఇష్టమొచ్చినట్టు వాడుకోవడం వలన ఆ భాగమంతా పరమ బోరింగా తయారైంది(VERB1) . 
+(OBJECT1) - Case=|Number=|Gender=|Person= 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+OSV
+OBJECT SUBJECT
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అంతే కాకుండా ‘తన రాజీనామాపై నిర్ణయం తీసుకోవాల్సింది స్పీకర్ కోడెల శివప్రసాదరావే’నని(OBJECT1) స్పష్టం చేసారు(VERB1) . 
+(OBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+OBJECT-VERB PERSON AGREE
+------------------------------
+$
+
+------------------------------
+
+అయితే ఇప్పుడు ఈ సినిమాకి(OBJECT1) కొంత బ్రేక్ ఇవ్వబోతున్నట్లు తెలుస్తోంది(VERB1). 
+(OBJECT1) - Case=gen|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+దీంతో అనుమానం వచ్చిన భద్రతా సిబ్బంది(SUBJECT1) వారిని ప్రశ్నించారు(VERB1) . . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+వాణిజ్యస్థాయిలో విద్యుత్ వాహన చార్జింగ్ స్టేషన్లను ఏర్పాటు చేసేందుకు అవగాహనా(SUBJECT1) ఒప్పందం(OBJECT1) కుదుర్చుకున్నాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+SOV
+SUBJECT OBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+టీజేఎస్కు(SUBJECT1) మాత్రమే 11 స్థానాలజాబితాను(OBJECT1) కాంగ్రెస్ పార్టీ ఇచ్చింది(VERB1) . 
+(SUBJECT1) - Case=gen|Number=sin|Gender=neu|Person=3 
+(OBJECT1) - Case=acc|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=|Gender=neu|Person=3 
+SOV
+SUBJECT OBJECT
+
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+అని కెసిఆర్(SUBJECT1) సభలో ప్రకటించారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అయితే హై కోర్టు ఇచ్చిన ఆదేశాల పై దేశంలోని ముస్లీం సంఘాలు(SUBJECT1) తీవ్ర అభ్యంతరం(OBJECT1) తెలిపాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+అన్న చిరంజీవిని అడ్డం పెట్టుకుని నటుడిగా వచ్చాడని(SUBJECT1) అన్నారు(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+తన మామను ఓడించాలని హరీష్ రావు తనను కోరాడంటూ సంచలన వ్యాఖ్యలు చేసిన గజ్వెల్ కాంగ్రెసు నాయకుడు వంటేరు ప్రతాప రెడ్డి తన వ్యాఖ్యలకు కట్టుబడి ఉన్నట్లు(OBJECT1) తెలిపారు(VERB1) . 
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+OBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+ఇక మంటలు పూర్తిగా ఆరిపోయే వరకు ఫైర్సిబ్బంది(SUBJECT1) పరిసర ప్రాంతాల నుంచి విడిచి వెళ్ళలేదు(VERB1) . 
+(SUBJECT1) - Case=|Number=pl|Gender=|Person=3
+(VERB1) - Case=|Number=any|Gender=neu|Person=3 
+
+------------------------------
+------------------------------
+
+ఇది సెప్టెంబర్ మూడో వారంలో మొదలవుతున్న తిరుమల శ్రీవారి(OBJECT1) బ్రహ్మోత్సవాలతో(SUBJECT1) ప్రారంభమవుతూ ఉంది(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3 
+(OBJECT1) - Case=ins|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=any|Gender=neu|Person=3 
+OSV
+OBJECT SUBJECT
+
+OBJECT-VERB GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+తనకు లేదా తనయుడు బాలకృష్ణకు అయినా ఇవ్వాలని(OBJECT1) కోరుతున్నారు(VERB1) . 
+(OBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+యాత్రలో జనం అందించిన వినతిప్రతాలను , ప్రజలు తన దృష్టికి తెచ్చిన సమస్యలో ఎప్పటికప్పుడు యాత్రాస్థలం నుంచి వీరభద్రం(SUBJECT1) ముఖ్యమంత్రి కి లేఖల ద్వారా నివేదిస్తూ వచ్చారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+73 వేలకు చేరుకున్నది(VERB1) . 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+------------------------------
+------------------------------
+
+తెలంగాణ లో ముందస్తు ఎన్నికలు కాకుండా ఎప్పటిమాదిరిగానే సాధారణ ఎన్నికలు నిర్వహించాలని టీజేఎస్(SUBJECT1) కేంద్ర ఎన్నికల సంఘానికి పిర్యాదు చేసింది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+మాజీ సీఎం కిరణ్కుమార్ రెడ్డితో చర్చలు జరిపే బాధ్యతను మాజీ కేంద్రమంత్రి పళ్లంరాజుకు(OBJECT1) అప్పగించారు(VERB1) . 
+(OBJECT1) - Case=gen|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఏదైనా ప్రాపర్టీని(SUBJECT1) అమ్మినప్పుడు దానికి క్యాపిటల్ గెయిన్స్ ట్యాక్స్ ని విధిస్తారు(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఆంధ్రప్రదేశ్ రాష్ట్రానికి ప్రత్యేక హోదా కావాలంటూ టీడీపీ ఎంపీలు(SUBJECT1) అలుపెరగని పోరాటం చేశారని గుర్తు చేశారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఏపీ సీఎం చంద్రబాబునాయుడుకు(SUBJECT1) అత్యం ప్రతిష్టాత్మక అవార్డు వరించింది(VERB1) . 
+(SUBJECT1) - Case=gen|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+సంస్థ(SUBJECT1) చైర్మన్గా కోదండరాం(OBJECT1) వ్యవహరిస్తారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(OBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+SOV
+SUBJECT OBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-OBJECT NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+ఇక ఈ పెరిగే మొత్తంపై జీఎస్టీ భారం(SUBJECT1) అదనం(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అందులో గడచిన మూడున్నరేళ్ళుగా కేంద్రం ఏపికి చేసిన సాయంపై సుదీర్ఘ వివరణ(OBJECT1) ఇచ్చారు(VERB1) . 
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+SOV
+SUBJECT OBJECT
+
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+బహుశా అందుకే కావచ్చు , వంశీ(SUBJECT1) ఇప్పటి నుంచే ప్రీ ప్రొడక్షన్ పనులు మొదలు పెట్టేసాడు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+కొన్ని(OBJECT1) పనుల్లో నిరాశలు(SUBJECT1) ఉంటాయి(VERB1) . 
+(OBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+దీంతో అభిమానులు(SUBJECT1) ఒక్కసారిగా సర్ప్రైజ్ అయ్యారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+జగన్ తో మాట్లాడాలని ప్రయత్నిస్తే తానే ఏ వన్ ముద్దాయి అంటూ వైసీపీ ఆరోపించిందని చంద్రబాబు(SUBJECT1) తెలిపారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఇందులో భాగంగా శాసనసభ్యుల కోటాలో వైసీపీకి రెండు స్ధానాలు(SUBJECT1) దక్కుతాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఇక సోషల్ అంశాలపై కూడా సాయిధరమ్ తేజ్(SUBJECT1) తనదైన శైలిలో స్పందిస్తాడు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+ఈ నేపథ్యంలో కేవీపీ పార్టీ మారితే టీడీపీ , కాంగ్రెస్ కలిపి వాటిని తిరగదోడే ప్రమాదం లేకపోలేదని కేవీపీ వద్ద సన్నిహితులు(SUBJECT1) వాపోతున్నారట(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+టీఆర్ఎస్ పార్టీని ఓడించి సీఎం కేసీఆర్ను గద్దెదించడానికి మహాకూటమిలో సీట్ల(OBJECT1) త్యాగానికి కాంగ్రెస్(SUBJECT1) సిద్ధంగా ఉందని కుంతియా స్పష్టం చేశారు(VERB1) . 
+(SUBJECT1) - Case=gen|Number=sin|Gender=neu|Person=3 
+(OBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+OBJECT-VERB NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+అనంతపురంలో జేసీ దివాకర్ రెడ్డి పోలీసులు మధ్య మాటల తూటాలు(SUBJECT1) పేలుతున్నాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఆ మధ్య రామ్ చరణ్ , ఉపాసన తల్లిదండ్రులు కాబోతున్నట్లు వార్తలొచ్చినా ఆ వార్తల్లో నిజం లేదని తేలిపోవటంతో(OBJECT1) అభిమానులు(SUBJECT1) నిరాశపడ్డారు(VERB1) . 
+(OBJECT1) - Case=gen|Number=pl|Gender=neu|Person=3 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అటువంటి హామీని చంద్రబాబు(SUBJECT1) అధికారంలోకి రాగానే పక్కన పెట్టేసారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+హరిబాబు(SUBJECT1) బడా ఎర్రచందనం స్మగ్లర్లతో సంబంధాలు పెట్టుకుని శేషాచలం అడవుల్లో ఎర్రదుంగలను గుట్టుచప్పుడు కాకుండా తరలించడంలో ఆరితేరాడు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+ఈ పరిణామాల నేపథ్యంలో ఇవాళ నిర్వహించిన టెలి కాన్పరెన్స్లో ముందుగానే అభ్యర్థులను ఎంపిక చేయనున్నట్టు బాబు(SUBJECT1) పార్టీ నేతలకు చెప్పారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=sin|Person=3
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+హేమచంద్ర(SUBJECT1) హీరో వాయిస్కు డబ్బిగ్ చెప్పారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3 
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఈ విషయం తెలిసిన వెంటనే పోలీసులు(SUBJECT1) సంఘటనస్థలానికి(OBJECT1) చేరుకొన్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(OBJECT1) - Case=loc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=|Gender=neu|Person=3
+SOV
+SUBJECT OBJECT
+
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+దీంతో కోపంతో మంగ భర్త యాదగిరిని(OBJECT1) కిందకు తోసేసింది(VERB1) . 
+(OBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=fem|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+సుప్రీమ్ హీరో సాయిధరమ్ తేజ్(SUBJECT1) హీరోగా నటించాడు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ముఖ్యమంత్రి చంద్రబాబు(SUBJECT1) నాయుడికి తలనొప్పిగా తయారవాలనుకోలేదు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+ఈ మేరకు ఉమ్మడి ఆంధ్రప్రదేశ్ చిట్టచివరి సీఎం కిరణ్ కుమార్ రెడ్డి(SUBJECT1) గత నెలలోనే రాహుల్ గాంధీ సమక్షంలో కాంగ్రెస్ పార్టీలో చేరారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+కానీ ఆడిటోరియంలో అంతా మంచి మనస్సును హత్తుకునే సన్నివేశాలు వచ్చినప్పుడు మనన్ఫూర్తిగా చప్పట్లు కొట్టడం చూస్తుంటే నాటకాలంటే(OBJECT1) ఎంత మంది(SUBJECT1) ఇష్టపడుతున్నారో అర్ధమైంది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3 
+(OBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=any|Gender=neu|Person=3
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+దానంతటినీ మొబైల్ ఫోన్ లో వీడియో(SUBJECT1) కూడా తీశారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+మొత్తంగా పదిహేను కోట్లు గ్రాస్ వసూలు చేసిన(VERB1) ఈ సినిమా(SUBJECT1) 7 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+ఫిరాయింపుల అంశాన్ని జాతీయ స్ధాయికి తీసుకెళ్ళటం ద్వారా చంద్రబాబునాయుడును ఎండగట్టేందుకు జగన్(SUBJECT1) ఢిల్లీ బాటపడుతున్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+------------------------------
+------------------------------
+
+ఇండియాలో బీజేపి ప్రభుత్వం చేపడుతున్న సంస్కరణలను(SUBJECT1) వారికి(OBJECT1) వివరించారు(VERB1) . 
+(SUBJECT1) - Case=acc|Number=pl|Gender=neu|Person=3 
+(OBJECT1) - Case=gen|Number=any|Gender=neu|Person=3
+(VERB1) - Case=|Number=any|Gender=neu|Person=3
+SOV
+SUBJECT OBJECT
+
+OBJECT-VERB NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+సరిగమల ప్రపంచంలో అన్నదమ్ములు(SUBJECT1) సంగీత దర్శకులు కావడం(VERB1) అరుదు . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=masc|Person=3 
+(VERB1) - Case=|Number=any|Gender=neu|Person=3
+
+------------------------------
+------------------------------
+
+ఇకనుంచి తన బాధ్యతలన్నీ కన్వీనర్ రఘు చూసుకుంటారని(OBJECT1) కోదండరాం ప్రకటించారు(VERB1) . 
+(OBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+’ అంటూ ఓ వీడియో(SUBJECT1) సోషల్ మీడియాలో వైరల్ అయింది(VERB1) . 
+(SUBJECT1) - Case=voc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఈ సంధర్బంగా ఆయన తెలంగాణలోని పాఠశాలకు(OBJECT1) ఆధునిక మౌళిక సదుపాయాలు కల్పిస్తున్నామని తెలిపారు(VERB1) . 
+(OBJECT1) - Case=gen|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఎన్నో సందర్భాల్లో రాష్ట్రానికి రావాలని ఆహ్వానించినా ప్రధాని మోదీ ‘బిజి ’ అని వాయిదా వేస్తూ వస్తున్నారని అధికారులు(SUBJECT1) చెబుతున్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఆయన(SUBJECT1) ఇంట్లో ఉన్నా సరే అరెస్టు చేస్తామన్నట్లు బెదిరించింది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=fem|Person=3
+(VERB1) - Case=|Number=sin|Gender=fem|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+కారును(OBJECT1) నడుపుతానని వెంకట్రావు(SUBJECT1) హరికృష్ణతో అన్నారు(VERB1) . 
+(OBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+మీడియాతో మాట్లాడుతూ , నల్లధన కుబేరునిగా చంద్రబాబు(OBJECT1) ప్రచారంలో ఉన్నారంటూ వాసిరెడ్డి(SUBJECT1) ఆరోపించారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(OBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=pl|Gender=masc|Person=3
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+గతంలో వరంగల్ జిల్లాలోని కొన్ని ప్రాంతాలు(SUBJECT1) నల్గొండ జిల్లాలో ఉండేవి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+లావణ్య నటించిన తాజా చిత్రం ‘రాధ’లో లావణ్య అందాలు(SUBJECT1) కచ్చితంగా సినిమాకు ప్రత్యే(VERB1) క 
+(SUBJECT1) - Case=nom|Number=sin|Gender=fem|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+టిడిపి(SUBJECT1) ఇపుడు ఎగిరి గంతేస్తా ఉంది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+కొందరు అభిమానులు , చిత్రబృందం , కళ్యాణ్ రామ్ సమక్షంలో ఈ వేడుకను(SUBJECT1) నిర్వహించబోతున్నారని సమాచారం(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=any|Gender=neu|Person=3
+
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+యాడ్(SUBJECT1) కోసం సదరు కంపనీ యాజమాన్యం(VERB1) 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+సినిమాల ప్రభావమో , తల్లిదండ్రు(VERB1) ల(SUBJECT1) 
+(VERB1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(SUBJECT1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+దీనంతటికీ బాలకృష్ణ(SUBJECT1) ముఖ్య కారణం కావడం గమనార్హం(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=any|Gender=neu|Person=3
+
+------------------------------
+------------------------------
+
+అందుతున్న సమాచారం(SUBJECT1) ప్రకారం తబిత(VERB1) . . . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+సోషల్ మీడియాలో హల్ చల్ చేసే ఈ భామకు . . ఇప్పుడీ అందాల మమ్మీ(SUBJECT1) కొత్త రూల్(OBJECT1) పెట్టిందట(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=fem|Person=3
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+SOV
+SUBJECT OBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-VERB-OBJECT NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+ఇప్పుడు అదే మలయాళ భామకు(SUBJECT1) పోటీనిస్తూ మరో మళయాళీ ముద్దుగుమ్మ తెలుగులో స్టార్ స్టేటస్ దక్కించుకుంది(VERB1) . 
+(SUBJECT1) - Case=gen|Number=sin|Gender=fem|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+నా పాత్ర(SUBJECT1) చాలా ఎమోషనల్ గా ఉంటుంది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(VERB1) - Case=|Numbers=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+సినిమాలో కీలకమైన ఇంటర్వెల్ సీన్ కోసం రాజమౌళి(SUBJECT1) భారీగా డిజైన్ చేస్తున్నారని సమాచారం(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+ఆల్వాల్ లోని వెస్ట్ వెంకటాపురానికి చెందిన గంగిశెట్టి కార్తీక్ , సూర్యాపేట జిల్లా కోదాడకు చెందిన జయశ్రీ(SUBJECT1) చదువుకునే సయమంలో ప్రేమించుకున్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=fem|Person=3 
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3 
+
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+విశాల్ , తమన్నా జంటగా సురాజ్∙దర్శకత్వం వహించిన(OBJECT1) ‘ఒక్కడొచ్చాడు(VERB1) ’ 
+(OBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+స్థానిక పరిస్థితులు ఉప ఎన్నికలపై ప్రభావం చూపుతాయని(OBJECT1) ఆయన(SUBJECT1) చెప్పారు(VERB1) . 
+(OBJECT1) - Case=acc|Number=pl|Gender=neu|Person=3
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+5 , 6 జోన్లు మాత్రమే తెలంగాణలో(SUBJECT1) ఉండేవి(VERB1) . 
+(SUBJECT1) - Case=loc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అలాగే ఇప్పుడంతా తలుపుల వెనకాల ఇది చేస్తుంటారని , ఇది పెద్ద విషయమేమీ కాదని(OBJECT1) చెప్పింది(VERB1) . 
+(OBJECT1) - Case=nom|Number=sin|Gender=fem|Person=3
+(VERB1) - Case=|Number=sin|Gender=fem|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఇలాంటి సినిమా తీయాలంటే రాఘవేంద్రరావుగారు , చెయ్యాలంటే నా మిత్రుడు నాగార్జున , తెరకెక్కించాలంటే నిర్మాత మహేష్రెడ్డికే(SUBJECT1) చెల్లుతుంది(VERB1) . 
+(SUBJECT1) - Case=gen|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఇక్కడ “గుణం” అంటే “నీతి , నియమం , శీలం , సత్ప్రవర్తన” వంటి అర్ధాలు కాకుండా ఒక ప్రత్యేకమైన లక్షణం(OBJECT1) అని అర్ధం(SUBJECT1) చెప్పుకోవచ్చు(VERB1) . 
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+టాలీవుడ్ హీరోయిన్స్ లో అన్ని రకాల ప్రేక్షకులను ఆకట్టుకున్న(VERB1) క్యూట్ బ్యూటీ రకుల్ ప్రీత్(SUBJECT1) సింగ్ . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=fem|Person=3
+(VERB1) - Case=|Number=sin|Gender=fem|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఈ వ్యభిచార ముఠాతో సాక్షాత్తూ ఇద్దరు అధికార పార్టీ బిజెపి ఎమ్మెల్యేలతో పాటు ఓ ఏఐయూడీఎఫ్ ఎమ్మెల్యే హస్తం ఉన్నట్లు పట్టుబడ్డ వ్యభిచారిణులు(OBJECT1) పోలీసులకు(SUBJECT1) తెలిపారు(VERB1) . 
+(OBJECT1) - Case=nom|Number=pl|Gender=fem|Person=3
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-OBJECT CASE AGREE
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+కర్ణాటకలో తాజా పరిణామం బీజేపీ , ఆర్ఎస్ఎస్ నేతలకు ఒక గుణపాఠమని , ప్రజల అభీష్టం కూడా తాజా ఫలితంతో రుజువైదంని(VERB1) అన్నారు(SUBJECT1)
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అదే(SUBJECT1) ఎన్టీఆర్ లవ్ స్టోరీ(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+ఈ నేపధ్యంలో ఈ చిత్రంలోని కాంతారావు లుక్ ఫొటో షూట్ ఫొటోలు(SUBJECT1) లీక్ అయ్యాయి(VERB1) . 
+(SUBJECT1) - Case=nom|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అధిక ఎత్తులో ఉన్న వాహనం రైల్వే అండర్ బ్రిడ్జి కింద నుంచి వెళ్లడానికి ప్రయత్నించడంతో ఈ ప్రమాదం(SUBJECT1) సంభవించింది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+కానీ '(OBJECT1) ఐయామ్(VERB1) బ్యాక్ ' 
+(OBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+హైదరాబాద్ సమీపంలోని శంషాబాద్ మండలం ముచ్చింతల్లోని దివ్యసాకేత ఆశ్రమానికి చేరుకున్న కేసీఆర్ చినజీయర్(SUBJECT1) స్వామి ఆశిర్వాదాన్ని(OBJECT1) తీసుకున్నారు(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=masc|Person=3
+(OBJECT1) - Case=acc|Number=pl|Gender=masc|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+SOV
+SUBJECT OBJECT
+
+OBJECT-VERB NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-VERB-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+ఇలాంటి చిత్రమైన అనుమానాలతో ఈ సినిమా(SUBJECT1) ఈ రోజు రిలీజ్ అయ్యింది(VERB1) . 
+(SUBJECT1) - Case=nom|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+OSV
+OBJECT SUBJECT
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అనుభవించేవారికే తెలుస్తుంది(VERB1) సమస్యలేమిటో(OBJECT1) . 
+(OBJECT1) - Case=gen|Number=pl|Gender=neu|Person=3
+(VERB1) - Case=|Number=pl|Gender=neu|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+సెట్లో చాలా సరదాగా ఫన్నీగా వుంటారు(VERB1) ఆయన(SUBJECT1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------
+
+ఏజెన్సీని అభివృద్ది చేయాలనే ఉద్దేశ్యంతో కిడారి సర్వేశ్వరరావు నిరంతరం తపించేవాడని చంద్రబాబునాయుడు(OBJECT1) గుర్తు చేసుకొన్నారు(VERB1) . 
+(OBJECT1) - Case=acc|Number=sin|Gender=masc|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+టెన్సెంట్ , టైగర్ గ్లోబల్ , బిన్నీ బన్సాల్ , మైక్రోసాఫ్ట్ లు మాత్రం కొంత వాటాను(SUBJECT1) కలిగి ఉంటాయి(VERB1) . 
+(SUBJECT1) - Case=acc|Number=sin|Gender=neu|Person=3
+(VERB1) - Case=|Number=sin|Gender=neu|Person=3
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB GENDER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+అయితే ప్రధాన నిందితుడు బ్రిజేష్ కుమార్ తో మంత్రి మంజు భర్త చంద్రశేఖర్ వర్మకు(OBJECT1) సంబంధాలున్నట్లు బైటపడింది(VERB1) . 
+(OBJECT1) - Case=gen|Number=sin|Gender=masc|Person=3 
+(VERB1) - Case=|Number=sin|Gender=masc|Person=3
+
+OBJECT-VERB NUMBER AGREE
+OBJECT-VERB GENDER AGREE
+------------------------------
+------------------------------

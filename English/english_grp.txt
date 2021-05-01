@@ -1,0 +1,5864 @@
+------------------------------
+------------------------------
+
+As survey(VERB1) done by One British in 1807 and made map where he shows river which is avilable in delhi yamuna river . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+there , he(SUBJECT1) described(VERB1) sriramacharithmaanas(OBJECT1) to god viswanath and mother annapoorna . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Jointly this(SUBJECT1) is India 's best Medical Institute(VERB1) . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+there is(VERB1) a lot(SUBJECT1) of difference between the cultures of towns and villages . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+God(SUBJECT1) Yama blessed(VERB1) him(OBJECT1) with boons of invincibility and disease free life . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+But other(SUBJECT1) above sub river are only up to 200 year(VERB1) , when Arawali mountain series was cover with natural forest then they are perennial ( twelve month ) . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Located by the side in Nepal 's Janakpur we(SUBJECT1) can also see(VERB1) Sitamathi(OBJECT1) , Devi Sita 's birth place , Janaki temple , Janaki kund , Haleshwar place , Panthpakad , as well as , Lord rama 's marraige place . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=1|PronType=Prs
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+after Independence , another part(SUBJECT1) of Bihar was partitioned(VERB1) and in 2000 , the state of Jharkhand was separated from this . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+this building(SUBJECT1) was constected(VERB1) in the memory of sufi sant bakhtiyar kaki . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+When he reached there he(SUBJECT1) saw(VERB1) that hs entire family is destroyed(OBJECT1) . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In the past it(SUBJECT1) was center(VERB1) of polity , religion and knowledge . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Generally it(SUBJECT1) is 7 to 8 meter high(VERB1) in nearby area . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+That(SUBJECT1) is why(VERB1) it is said that unintentionally Rafi Saheb happened to damage the careers of Manna De , Talat Mehmood and Hemant Kumar . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - PronType=Int
+
+------------------------------
+------------------------------
+
+Spread(VERB1) over an area of 1483 sq . km , Delhi is the third biggest metropolis in India . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Moropanth(SUBJECT1) was Marathi brahmina(VERB1) and was in employment of Maratha Peshwa Bajirao . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+A post ticket(SUBJECT1) dedicated(VERB1) to freedom fighters(OBJECT1) of Indian war of independence in 1857 which depicts a picture of Lakshmibai . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+There , in them they(SUBJECT1) inspired(VERB1) by poetry power and they created the poems in Sanskrit . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Once at Aakashvanee ( at that All India Radio ) , reputed singer - actor Kundan(SUBJECT1) Lal Sahagal came(VERB1) in Lahore to show his demonstration . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Nalanda University(SUBJECT1) , Vikramshila University and Odantpuri University are the named study centre(VERB1) in old Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+delhi 's river Yamuna(SUBJECT1) is one(VERB1) of the most sacred rivers to the Hindu religion . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+Tulsidas(SUBJECT1) is known(VERB1) as incarnation of Maharshi Valmiki who basic creator of Ramayana . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+Lord(SUBJECT1) Surya thought(VERB1) of him as an innocent child and did not burn him with his powerful rays . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+In 1998 the high court(SUBJECT1) ordered(VERB1) all general vehicles(OBJECT1) of delhi city to use compressed natural gas instead of disel in their vehicles . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is not only the capital(VERB1) but also a tourist destination . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Be blessed(VERB1) in them as well as remembering them ( together with Lata Mangeshkar ) is worth discussing . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+after this research in 1992 , the Guinness Book(SUBJECT1) of World Records removed(VERB1) the singer 's record(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+After The Sepoy Mutiny in the year 1857 , British rule(SUBJECT1) started(VERB1) in Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+.(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Average rainfall(SUBJECT1) is around 714 cm(VERB1) ( 28.1 inch ) , in which most of it is in the months of July and August . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+The Rahtrapati Bhawan(SUBJECT1) ( President 's Residence ) , Kendriya sachivālaya ( Central Secretariat ) , Raj Path , Sansad Bhawan ( Parliament House ) are one(VERB1) of the most important buildings . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+Apart from this local delicacies like the Chaat are loved(VERB1) by many people . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) has(VERB1) a length(OBJECT1) of 1922.32 KM of roads with a road density of 100 KM per Sq Km , which is highest in india . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+As per some thoughts , the 11th Incarnation(SUBJECT1) , Rudravtar ( Rudra - Incarnation of Lord Shiva ) , is considered(VERB1) to be the most powerful(OBJECT1) and intelligent . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Bismilla(SUBJECT1) khan is a famous(VERB1) for making this instrument popular , he also was born in Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+queen(SUBJECT1) of jhansi ran(VERB1) and reached kaalpi and met tatya tope . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+The term(SUBJECT1) ' Wikipedia ' is created(VERB1) by joining two words ' Wiki ' and ' Encyclopedia ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+There are(VERB1) four important Railway Stations(SUBJECT1) here . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+.(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Rambola(SUBJECT1) recited(VERB1) the Gayatri Mantra(OBJECT1) without being taught , which left every one astonished . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Many other festivals(SUBJECT1) are also celebrated(VERB1) here like : Mango Festival , Kite Flying festival , Spring season festival which are celebrated every year . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The average height(SUBJECT1) is 455 meter(VERB1) but height its highest peak is 874 meter of this class . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Today Delhi(SUBJECT1) is one(VERB1) of the the prominent political , cultural and commercial hub of India . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+people(SUBJECT1) in villages strictly follow(VERB1) traditions(OBJECT1) and staunchly believe in them . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+It(SUBJECT1) was vary sad(VERB1) the forest are start(OBJECT1) cutting in Khilji period . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Degree=Pos
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Sasharam an Octagon shaped tomb(SUBJECT1) of Shershah made in Afgan style is wonderfull artistic monument(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+By means of Air transport Delhi Indira Gandhi International Airport(SUBJECT1) got connected(VERB1) to the whole world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+in the Quit India Movement also , Bihar(SUBJECT1) played(VERB1) a profound role(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+mosk(SUBJECT1) of gayasuddin constructed in the period of tuglak is a simbol(VERB1) of new adventures . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) married(VERB1) Begum(OBJECT1) Wiklis and had seven children , of which four are sons and three daughter . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Nimra(SUBJECT1) is one(VERB1) of the most important pilgrimage center at Patna . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+3(VERB1) - Khadar area is expanded from Gandak to Kosi river in all north Bihar . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) saw(VERB1) that a very handsome prince was riding(OBJECT1) a horse and was carrying a bow and an arrow in hands . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Pres|VerbForm=Part
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) has(VERB1) capacity(OBJECT1) to compete with any of the new city in the world . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+It(SUBJECT1) is 700 to 1000 ft(VERB1) . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+In 1857 Jhansi(SUBJECT1) became(VERB1) an important center(OBJECT1) of war from where the rebel started . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+But , all written poems(SUBJECT1) by them in day , was got vanished(VERB1) at night . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+To listen it , Mohammad(SUBJECT1) Rafi and elder brother also gone(VERB1) there . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+The moment Hanuman leaped to catch the Sun at the same time Rahu(SUBJECT1) wanted(VERB1) to cast(OBJECT1) an eclipse on the sun . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+From the same day all general vehicles(SUBJECT1) runs(VERB1) on c.N. G only . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+There is(VERB1) program(SUBJECT1) to further expand , it has the potential to hold 100 Million passengers annually . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Shahdara(SUBJECT1) and Bhajanpura etc are on its eastern ends(VERB1) and are regarded as main shopping centres in Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Thulsi(SUBJECT1) das about my self god create(VERB1) sad life heart all sacrifice(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+With the raise of the Sultans Delhi became(VERB1) an important center(OBJECT1) for polity , Culture and trade . 
+(VERB1) - 
+(OBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+As per ancient evidence , human lives(VERB1) found surrounding to Delhi in B.C.2000 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+The tomb(SUBJECT1) of Safdarjung and Humayun 's tomb are the perfect example(VERB1) of the Moghul four garden styles . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Apart from local cuisine , continental food(SUBJECT1) like Italian and Chinese food is also available(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+in his child hood days itself his family(SUBJECT1) shifted(VERB1) from Lahore to Amritsar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Rafi(SUBJECT1) got(VERB1) famous(OBJECT1) from song Tera Khilona toota , ( Film - Anmol Ghari , 1946 ) , written by Naushad . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Mughal emperor(SUBJECT1) Humayun defeated(VERB1) Afghan army(OBJECT1) near the border & could capture Delhi without any resistance . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Third one(VERB1) which is biggest flow in which shaibi river ( earlier name rohani ) was called . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is well connected(VERB1) with other big cities and Metros by Super fast and Express Trains . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+when opened the door in the morning , it(SUBJECT1) was written(VERB1) as styam sivam sundaram and under it there was the hybrid of god sankara . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The ruler(SUBJECT1) of Maurya dynasty Empire Ashoka dynasty has reached(VERB1) up to Afghanistan . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) had made(VERB1) his unic identity(OBJECT1) among the singers of his age with the help of his euphonnic sound . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Due to the boundaries of casts most(SUBJECT1) of the marriages set by the Mother - Father or relatives are within the family(VERB1) . 
+(SUBJECT1) - Degree=Sup
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Asia 's biggest Auto Show(VERB1) : Auto Expo is organized in Delhi twice a year . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Then all the gods(SUBJECT1) , demons , demigods , kinners , etc . went(VERB1) to the refuge of Brahama Ji. 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+men(SUBJECT1) are dominant(VERB1) in the society and women are still kept under strict restraint . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+This(SUBJECT1) is done suppression(VERB1) for not accept the Islam who is local mutineer and plunder . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Even if I am dark , it(SUBJECT1) does not matter(VERB1) . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - VerbForm=Inf
+
+------------------------------
+------------------------------
+
+Mohamod(SUBJECT1) Rafi was well known(VERB1) for his good sense ofhumor , God devotion , etc . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+his written sings(SUBJECT1) sang(VERB1) by Rafi get fame and Rafi , mad - an mohan , ghulam hyder , jaydev , Salli choudhary and more singers he started singing songs . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) has(VERB1) several ancient and middle age monuments(OBJECT1) like Kumrhar , Agmukuma , Mahendra Ghat the remains of the Outpost built by Sher Sha . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+Tulsi(VERB1) Das 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) is covered(VERB1) from west , north , south by hariyana and east by uttar pradesh . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Queen(SUBJECT1) Lakshmibai improved(VERB1) the security(OBJECT1) of Jhansi and formed a volunteer army . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Summer(SUBJECT1) is at its peak(VERB1) between April and June , During which there is a possibility for the temperature to rise very high . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Recent the situation(SUBJECT1) of education is improved(VERB1) but primary and secondary education becomes hades pony . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+since delhi falls under the 4th seismic zone , it(SUBJECT1) is prone(VERB1) to earthquakes . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+After that Vinay(SUBJECT1) Patrika is another important poetry(VERB1) written by Tulsidas . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+When the Lord Hanuman saw the touch of Rahu on the upper portions of the sun he(SUBJECT1) ran(VERB1) away with fear . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Saptparni Cave Venuvan(SUBJECT1) , Griddhakoota hill , Jarasand 's empire , hot springs , Makdhoom kund ( hot fountain ) etc. are Rajgir 's important tourism places(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+In 500 BC the Nischet(SUBJECT1) a city(VERB1) that was famous place , which was made to protect the property . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Places(SUBJECT1) of tourist interest are the Old Fort , Safdarjung 's tomb(VERB1) , Jantar mantar , Qutb Minar and Iron Pillar . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Safdarjung(SUBJECT1) is another Airfield(VERB1) of Delhi , It is used for smaller aircraft training and few VIP passengers land and take off from here . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In place of surnames indicative of caste , many(SUBJECT1) liked(VERB1) adding(OBJECT1) ' Kumar ' . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The Indian government(SUBJECT1) awarded(VERB1) him(OBJECT1) with the Padma Shree Award in 1965 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The border(SUBJECT1) of RA.RA. is surrounded(VERB1) mainly by the places like Noida and Gurgoan . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In the beginning their capital(SUBJECT1) was Calcutta(VERB1) ( Kalkutta ) , but they moved their Capital to Delhi in the year 1911 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi municipal corporation(VERB1) ; 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+One(SUBJECT1) can see(VERB1) here remains(OBJECT1) of many Ancient and Medieval times monuments . 
+(SUBJECT1) - 
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The involvement(SUBJECT1) and geographical proximity of Delhi 's capital , New Delhi , has extended(VERB1) the importance(OBJECT1) of national programmes and events . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+From olden times , Delhi(SUBJECT1) has also been a major business capital(VERB1) of the country . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+These National Highways(SUBJECT1) are , NH(VERB1) 1 , NH 2 , NH 8 , NH 10 and NH 24 . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+In the third phase of the project , there is(VERB1) plan(SUBJECT1) to add cities of National Capital Territory like Ghaziabad , Faridabad etc . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+After this songs from , Shaeed(SUBJECT1) , Mela and Dulari were also hit(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) is regarded(VERB1) as Bajrang Bali , because his body is like an Thunderbolt . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+There is(VERB1) Nepal(SUBJECT1) in the north , West Bengal in east , Uttar Pradesh in west and Jharkhand in south of Bihar . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The main server(SUBJECT1) of Wikipedia is in Tampa(VERB1) , Florida and additional servers are in Amsterdam and Seoul . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+God(SUBJECT1) with his own hands took(VERB1) the sandalwood paste(OBJECT1) and applied on Tulsidasji 's forehead and he felt blessed . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Tulsi(SUBJECT1) Das Ji came(VERB1) to Ayodhya from Kashi considering his advise . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+After the death of Humayun , afghan army(SUBJECT1) , under the leadership of Hemu Vikramaditya defeated(VERB1) the mughal army(OBJECT1) & recaptured Delhi & Agra . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+comes(VERB1) form(OBJECT1) south - west and north of riz and meet with yamuna . 
+(VERB1) - 
+(OBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+As of there are(VERB1) three express trains(SUBJECT1) and three more are under constructions that connect prosperous and important suburbs . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+at that time the people(SUBJECT1) sitting there heard(VERB1) the sound(OBJECT1) " " satyam sivam sundaram " " through their ears . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The limit(SUBJECT1) of expenditure in marriage ceremony & reception depends(VERB1) on the Financial position of the community . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+This(SUBJECT1) is Daldali region(VERB1) where dense forests of yearly trees exist . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Brahama(SUBJECT1) Ji went(VERB1) to Vayudev ( god of air ) taking them all along . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+delhi main climate(SUBJECT1) has(VERB1) major difference(OBJECT1) between summer season and monsoon season . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+major festivals(SUBJECT1) include(VERB1) Holi(OBJECT1) , Diwali , Dusshera , Maha Shivratri , Shri Panchmi , Muhharam , Eid and Christmas . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+As Gods Indra 's Vajra broke Hanumans Hanu or chin he(SUBJECT1) came(VERB1) to be called(OBJECT1) as Hanuman or broken chin . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+And with the increment of the urban population is narrow(VERB1) the forest(SUBJECT1) are . 
+(VERB1) - Degree=Pos
+(SUBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+The Indian Archaeological Society(SUBJECT1) has declared(VERB1) 1200 world heritage sites(OBJECT1) in Delhi , which is greater than any other city of the world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+During his initial days of career , he(SUBJECT1) worked(VERB1) for music director duo Lakshmikant - Pyarelal ( better known as Lakshmipyare ) for minimal fees . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+number(SUBJECT1) of fans were increasing(VERB1) later on singing songs on Di lip Kumar , Devanand . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+When Hanuman(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In the decade of 1950s , Rafi(SUBJECT1) sang(VERB1) many popular songs(OBJECT1) , the music of which was composed by Shankar - Jaykishan , Naushad , or Sachindeo Barman . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Delhi 's historical importance(SUBJECT1) in northern india is(VERB1) because of it 's position . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In this army women(SUBJECT1) were admitted(VERB1) and taught the tactics of war . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Elder brother(SUBJECT1) of Rafi requested(VERB1) the organizers to give(OBJECT1) a chance to sing Mohammad Rafi to cool down the restlessness of crowd . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+By the end of June temperatures drop(SUBJECT1) and rain starts(VERB1) from the eastern monsoons winds . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+On the facts of digging the land the saleem garh(SUBJECT1) and old fort are found(VERB1) to be the evidence(OBJECT1) of such ancient city .. 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi metro rail coop(SUBJECT1) which runs delhi metro rail is a mass rapid transist service(VERB1) , which provides facilities in many areas of delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In 1965 , the song(SUBJECT1) , ' Pardesiyon Se Na Akhiyan Milana ' , from movie of the couple music director Kalyanji- Anangji , got(VERB1) the most popular title song(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+When India attained Independence in the year 1947 , formally Delhi(SUBJECT1) became(VERB1) the capital(OBJECT1) of India . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+ref(VERB1) to the above subject he had created so many books . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In 1901 Delhi(SUBJECT1) was a small city(VERB1) with a population of 4 lacs . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+National holidays(SUBJECT1) like the Republic day , Independence day and Mahatma Gandhi 's Birthday are celebrated(VERB1) with great pomp and joy . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Markets(SUBJECT1) located in old Delhi and in old Mughal structures still hold(VERB1) business secrets(OBJECT1) of thos times . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The upkeep(SUBJECT1) of the roads is done(VERB1) by Municipal Corporation Delhi ( MCD ) , Delhi Cantonment Board , Public works Department , and Delhi Development Authority . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+in 1951 when Naushad writing for the film Baju Bawra he(SUBJECT1) had planned(VERB1) to get(OBJECT1) Talat Mehmood to sing for it . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Hanuman(SUBJECT1) is known(VERB1) as the son of Wind , because ( the God of Wind ) had played a major role in upbringing Hanuman . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+After this Bihar(SUBJECT1) was under the control(VERB1) of Nawabs of Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+most parts(SUBJECT1) of bihar has(VERB1) slum areas(OBJECT1) , where kabaddi , gillidanda , kanche are played often . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+It(SUBJECT1) was started(VERB1) on 21st January , 2001 as a supplementary to the Nupedia , an encyclopedia created by experts . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Due to some geographical disturbance the lower part(SUBJECT1) is now upper part(VERB1) , from that it stops flowing in yamuna river . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+when the educated people heard about this , envy(VERB1) generated in their minds . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Buddha(SUBJECT1) and Jain Religion has originated(VERB1) during sixth and fifth century b.c. 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+Hanuman 's father(SUBJECT1) wasthe(VERB1) king(OBJECT1) of Sumeru Kingdom and his mother 's name was Anjani . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Almost all the casts(SUBJECT1) are infected(VERB1) by the epidemic of Dowry . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+This(SUBJECT1) is second largest festival(VERB1) of the world where 26 states of the world takes part . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In vary large ratio children(SUBJECT1) are taking(VERB1) education(OBJECT1) in middle school . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) was sitting(VERB1) in gloom taking unconscious Hanuman in his lap . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+due to the birth of the tenth Sikh Guru , Gobind Singh , in Patna , on his birth anniversary , pompous celebrations(SUBJECT1) are carried(VERB1) out . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The dispute(SUBJECT1) he had with another famous singer , Lata Mangeshkar , regarding the royalty of songs showcases(VERB1) his bigheartedness(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+One day he(SUBJECT1) met(VERB1) a dead body(OBJECT1) there which told him directions to meet Hanumana . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In Hindi along with Gandhi stories nearly 31 and more than languages(SUBJECT1) are wrote(VERB1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Hanuman(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Aravalli hills(SUBJECT1) 's is on the south west(VERB1) and Yamuna river in the east on the banks of which it is located . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+God(SUBJECT1) Shankar ordered(VERB1) him , that you should create(OBJECT1) the poems in your own language . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+They(SUBJECT1) got(VERB1) permission(OBJECT1) and in the age of 13 years this was the first public demonstration of Mohammad Rafi . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After which the winds(SUBJECT1) take(VERB1) these monsoon winds(OBJECT1) further bringing good rains . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+There is(VERB1) a Sukharkhet Rajapur named village(SUBJECT1) in Gonda District which is near to Aayodhya , there was lived the famous Brahman named Atmaram Dube . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In order to console me when i was crying you(SUBJECT1) had given(VERB1) me the Sun(OBJECT1) and Moon to play with . 
+(SUBJECT1) - Case=Nom|Person=2|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) was started(VERB1) in 24 dec 2002 in shadara thirty hazari line . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Films(SUBJECT1) are extremely popular(VERB1) in the cities , towns and villages of Bihar . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) obtained(VERB1) his forth Filfare Award(OBJECT1) for the very popular song , Baharon Phool Barsao of movie ' Suraj Ke Geet ' , released in 1966 . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The terrain(SUBJECT1) of Delhi changes(VERB1) from plain agricultural fields in the north to Aravalli Hills of Rajasthan ) in the south . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In Delhi we(SUBJECT1) can even now see(VERB1) the remains(OBJECT1) of The raise and fall of several Kings . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=1|PronType=Prs
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Then Queen(SUBJECT1) Lakshmibai consulted(VERB1) John(OBJECT1) Lang and filed an appeal for the hearing of her case in London . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In the 16 and 17 centuries East India Company(SUBJECT1) had(VERB1) almost the whole(OBJECT1) on India under its control . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+It is believed(VERB1) that , he had made(OBJECT1) " " Lal - Kot " " ( Red Fort ) & brought " " Loh -Stambha " " in Delhi . 
+(VERB1) - 
+(OBJECT1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+In 1911 its population(SUBJECT1) started(VERB1) increasing(OBJECT1) when it became the capital of British India . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+on the eve of the Independence day , the Prime Minister(SUBJECT1) of India addresses(VERB1) the people(OBJECT1) of India from the Red Fort . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+High population(SUBJECT1) and high economic development has put(VERB1) tremendous pressure(OBJECT1) on the city 's infrastructure . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+It(SUBJECT1) is said(VERB1) Naushd once saw(OBJECT1) Talat Mehmood smoking , and offered the movie to Rafi instead . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Mood=Ind|Tense=Past|VerbForm=Fin
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+This region(SUBJECT1) is situated(VERB1) at plains of Ganga and her supported rivers . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In addition to different tastes of sweets , balls of anrasa , khasa , mothichur laddu , thilkut(SUBJECT1) is famous(VERB1) here . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Now it(SUBJECT1) is being managed(VERB1) by Wikimedia Foundation which is a nor-profit organization . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In the year 1627 after taking permission from Hanumanji , he(SUBJECT1) went(VERB1) towards Agra . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Akbar 's grandson(VERB1) Shahajahan ( 1628-1658 ) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+From back way the maximum water start(VERB1) comming in najabgarh cannal . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+D N d Flyway(SUBJECT1) and Noida - Greater - Noida Express connects(VERB1) Delhi(OBJECT1) with another two important suburbs . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+by tieing with the chain they(SUBJECT1) condemned(VERB1) the thulasidasji(OBJECT1) and by losing the books they began to destroy also . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The teacher(SUBJECT1) and his disciple went(VERB1) to Shukarshetra after spending some days there . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+The State(SUBJECT1) of Bihar comes(VERB1) within the bicameral administration of the federal structure of the Indian republic . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+This(SUBJECT1) include(VERB1) Sonu(OBJECT1) Nigam , Mohammad Ajij and Udid Narayana - among these have now their own identity . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Due to Dowry breakage of Marriage or torture of the Bride becomes(VERB1) headlines(OBJECT1) of news . 
+(VERB1) - 
+(OBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Because of Delhi 's reading skill sometimes it(SUBJECT1) is also called(VERB1) as the book capital of the world . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+When Brahama(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+in his long life he(SUBJECT1) wrote(VERB1) many books(OBJECT1) - ramlalanchu , vairagyasandeepani.ramgyaprashna.janki mangal , ramcharitmanas , satpai , parvati mangal , geetawali , vinay patrika , krishna geetawali , barwe ramayana , dohawali and kavitawali 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After meeting Hanumanji Tulsidas prayed(VERB1) him(OBJECT1) so that Hanumana can arrange to meet Shree Raghunathji . 
+(VERB1) - 
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+
+------------------------------
+------------------------------
+
+In Wikipedia information(SUBJECT1) goes(VERB1) very fast for example Bombay bomb blast happen in few minitues the information comes in english Wikipedia . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Norther Bihar(SUBJECT1) is plain(VERB1) of Baghmati , Koshi , Budhi Gandak , Gandak , Ghaghra and supporting rivers . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+On Mauni Dark Night of Samvat Year 1607 on Wednesday Lord Shri Ram(SUBJECT1) reappeared(VERB1) in front of him . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Music director(SUBJECT1) Ravi composed(VERB1) songs(OBJECT1) for Rafi in the decade of 1960s . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) was one(VERB1) of the major center on the business route through the plains of the Ganges . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+Manu(SUBJECT1) took(VERB1) eduction(OBJECT1) of sciences and weapons as well , in childhood . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In Mahrauli of New delhi iron pillars(SUBJECT1) of Gupta empire age can be found(VERB1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Relatively low level terrain(SUBJECT1) contains(VERB1) vast plains(OBJECT1) which makes land valuable , but really it is flood affected place . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In October month of 1957 neighboring kingdoms(SUBJECT1) of Orcha and Datiya attacked(VERB1) Jhansi(OBJECT1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In the spectator , Shyam(SUBJECT1) Sunder , which was famous musician at that time , also listen(VERB1) him(OBJECT1) and impressed quite a lot . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+the rivers(SUBJECT1) have been the natural source(VERB1) of water for the terrestrial animals for millions of years . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+These transport(SUBJECT1) runs(VERB1) at a maximum speed of 80 km / hr and stops for 20 seconds at all stations . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) also has(VERB1) war memorials(OBJECT1) like the India Gate on Rajpath . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In Delhi there are(VERB1) many large natural lakes(SUBJECT1) but now due to mining many of the lakes are drying up . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Here pandits(SUBJECT1) and a few idea not get(VERB1) , Sri madhusudhan(OBJECT1) that book he had got some opportunity to show the book . 
+(SUBJECT1) - Number=Plur
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+New delhi coporation(SUBJECT1) is old NDMC(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+During the partition of India , a big number(SUBJECT1) of people came(VERB1) to Delhi and settled down . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+These(SUBJECT1) include(VERB1) oil drenched pickles(OBJECT1) of mango , lemon etc and also cloth , clothes , masalas , sweets and also bridal jewellery and precious gems . 
+(SUBJECT1) - Number=Plur|PronType=Dem
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+According to a survey conducted in 2008 , there are(VERB1) 5.5 million vehicles(SUBJECT1) within the municipal limits of Delhi . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Phase III ( 112 km ) and Phase IV ( 108.5 km ) length(SUBJECT1) is proposed(VERB1) to be completed(OBJECT1) in 2015 and 2020 respectively . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In its publications following this , Guiness Book(SUBJECT1) presented(VERB1) the cases(OBJECT1) of both and credited Mohammed Rafi having sung 28,000 songs between 1944 and 1980 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+This state(VERB1) occupied by great empires in ancient era , presently counted as a lowest participant in economy of country . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In the middle of 2006 there were(VERB1) articles(SUBJECT1) exceeding 46 lakhs , in English alone there were more than 12 lakh articles . 
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+On that day in morning , celestial position(SUBJECT1) was same(VERB1) as on the day of Rama 's birth in Treta Yug . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Shahajahanabad(SUBJECT1) is also called(VERB1) old city(OBJECT1) or old Delhi in colloquial language . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+70 Years the area(SUBJECT1) of this cannal was 220 square kilometer(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+There is(VERB1) a plan(SUBJECT1) to have an International Airport Greater Noida and to have a Indian Grand Prix track . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The Delhi district authority(SUBJECT1) obeys(VERB1) all the state(OBJECT1) and central principles . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) sent(VERB1) him(OBJECT1) from a ghat of Patliputra ( present Patna ) which is now called Mahendru ghat , named after Mahendra . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+SUBJECT-OBJECT GENDER AGREE
+SUBJECT-OBJECT PERSON AGREE
+------------------------------
+------------------------------
+
+Starting from 1940 to 1980 he(SUBJECT1) had sung(VERB1) total 26000 songs(OBJECT1) . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In most of the cast & communities consumption of Liquor & dance is operational(VERB1) in the Marriage Ceremony . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Students(SUBJECT1) come(VERB1) from all over the India in these educational institutes . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Then Brahama(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In common Hindi , the name(SUBJECT1) ' Dilli ' , was also used(VERB1) to refer(OBJECT1) to this region , which eventually became ' Delhi ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+racism(SUBJECT1) is a very important factor(VERB1) and has always played a major role in the politics of Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+After the freedom the rainy channel(SUBJECT1) , footpath and street are strong(VERB1) by cement , so the natural resource was block which is reach the water to waterway . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+the state 's total area(SUBJECT1) is 94,163 km square(VERB1) , of which 92,257.51 km square is rural district . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+There are(VERB1) , at present , three world heritage sites(SUBJECT1) in Delhi - Red Fort , Qutb Minar and humayun 's tomb . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+for him songs(SUBJECT1) were given(VERB1) by sometimes by o.p 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Son(SUBJECT1) , Punpun , Falgu and Keul are supporting(VERB1) rivers(OBJECT1) in south which joins Ganga in Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Rama is way shower(VERB1) not the source - prof . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Rafi(SUBJECT1) got(VERB1) his first Film -fair award(OBJECT1) in 1960 for his title song of the film ' Chaudahavi ka Chand ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Located on the bank of river Yamuna , this city(SUBJECT1) has(VERB1) a glorious mythological history(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Winter(SUBJECT1) starts(VERB1) in the month of November and continues till the beginning of February . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+the Ganga - Yamuna region(SUBJECT1) in India , comprises(VERB1) of the most pure waters . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Frightened(SUBJECT1) on hearing about another Rahu Indira accompanied by Rahu went(VERB1) to towards the Sun. 
+(SUBJECT1) - Tense=Past|VerbForm=Part
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Aravli(VERB1) the perennial river and his nature Three of his river which flows from the center of Delhi and meet Yamuna . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Apart from main -stream Hindi films , Bhojpuri films(SUBJECT1) have also earned(VERB1) their importance(OBJECT1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The British(SUBJECT1) occupied(VERB1) the treasure(OBJECT1) of state and deducted his husband 's loan in her annual expenses . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Sri madhusudhan(SUBJECT1) has happy(VERB1) to saw(OBJECT1) his creation and accept the books . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Come(VERB1) under the scope Kshatre NDMC is called in thi name . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+You(SUBJECT1) will find(VERB1) many old structures(OBJECT1) , which still stand tall , displaying the magnificence of those times . 
+(SUBJECT1) - Case=Nom|Person=2|PronType=Prs
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Thus Delhi(SUBJECT1) has(VERB1) the maximum number(OBJECT1) of vehicles among all the cities of the world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In the searches that followed , Viswas(SUBJECT1) Nerurkar could find(VERB1) that Lata has in fact sung(OBJECT1) only 5,044 songs till 1989 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Tense=Past|VerbForm=Part
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+As per the Hindu mythological stories , Hanuman(SUBJECT1) , i.e. Maarut Nandan , is the son(VERB1) of Wind . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Babu(SUBJECT1) Kunwar Singh played(VERB1) an important role(OBJECT1) in the first Indian rising of 1857 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+apart from this government jobs and small business are also their part(VERB1) of occupation . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) is in more than 200 languages(VERB1) among which more than 50 thousand articles are there in 15 languages . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+On that day 's morning Shri(SUBJECT1) Tulsi Das Ji started(VERB1) weiting(OBJECT1) Shriramcharitmanas . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+From ancient days Delhi(SUBJECT1) has been ruled(VERB1) by many kings & emperors & its name also got changed from time to time . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+British(SUBJECT1) clean(VERB1) the mud(OBJECT1) of sahibi river and clear the bottom part and named nala nazafgarh and mix with yamuna . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Mood=Imp|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Later on Boodhism has reached(VERB1) Japan(OBJECT1) through China and its way . 
+(VERB1) - 
+(OBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+once , after his birth , his mother(SUBJECT1) went(VERB1) out to buy fruits while leaving him alone at the asylum . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+This(SUBJECT1) include(VERB1) mainly Hindi(OBJECT1) and also Gazal , Bhajan , Patriotic songs , Kavvali and also songs of various language . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+1(VERB1) - Terrain region , this Someshwar class I ncludes about 10 kilometer width of stone-sand . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Here(VERB1) are various governmental and private institutes(SUBJECT1) , which are providing vary high level education in Art , Commerce , Science , Technology , Medical Law and Management . 
+(VERB1) - PronType=Dem
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Indra(SUBJECT1) said(VERB1) that his body would be harder(OBJECT1) than the thunderbolt . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Cmp
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+in the past few years , its colossal form(SUBJECT1) has been exposed(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In this condition , where they not find the path , there they(SUBJECT1) are overflow(VERB1) like a rainy channel . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+I(SUBJECT1) have steered(VERB1) the boat clear(OBJECT1) of the storm , ( movie Jagruti , 1954 ) , a patriotic song . 
+(SUBJECT1) - Case=Nom|Number=Sing|Person=1|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+after the separation of Jharkhand , most(SUBJECT1) of the terrain is flat lands(VERB1) and it is cultivable . 
+(SUBJECT1) - Degree=Sup
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+its counted(VERB1) as a biggest posh city as per highest percentage of one person income in the country . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Based on this topic their was(VERB1) a debate(SUBJECT1) between the two great super stars . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+If we searching in Google and other it(SUBJECT1) comes(VERB1) in Wikipedia . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+This pair(SUBJECT1) created(VERB1) many wonderful songs(OBJECT1) for the films ' Gharana ' ( 1961 ) , ' Kajal ' ( 1965 ) , and ' Do bada n ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Though built in fourth century it(SUBJECT1) is still had(VERB1) no rust(OBJECT1) on it . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In January month of 1958 Britain 's army(SUBJECT1) started(VERB1) marching(OBJECT1) towards Jhansi and surrounded the city in the month of March . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+At that time God Shiv(SUBJECT1) and Parvati emerged(VERB1) in front of him . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Mohammad Rafi 's first song(SUBJECT1) was for a Punjabi film(VERB1) ' Gul Bloch ' , which he sung in the direction of Shyam Sunder in 1944 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+During winter the weather(SUBJECT1) becomes(VERB1) very cold(OBJECT1) , due to the cold wave , which is as dangerous as the intense heat wave of summer . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+this region(SUBJECT1) receives(VERB1) good rainfall(OBJECT1) and the rivers originating from the Himalaya glaciers are perennial throughout the year . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Western Asian land river change(SUBJECT1) the old way now Yamuna has been removed(VERB1) prior to the twenty Kilometer . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The metro rail(SUBJECT1) is an important means(VERB1) of transport in delhi transportation . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The river Yamuna(SUBJECT1) seperate(VERB1) the city(OBJECT1) from the other eastern regions . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+For this towards the southern side of old Delhi they(SUBJECT1) started(VERB1) building(OBJECT1) a new city . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+With the increase of 3.85 % annually Delhi 's population(SUBJECT1) reached(VERB1) a total(OBJECT1) of 1 crore and 38 lacs in the year of 2001 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Chandni Chowk(SUBJECT1) , which is a market from more than three centuries , is famous(VERB1) for jewellery , Zari sarees and masalas . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+According to the Delhi Master Plan 2021 the Delhi Metro Rail(SUBJECT1) is proposed(VERB1) to be extended(OBJECT1) till suburbs . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+During this time , Shankar(SUBJECT1) - Jaikishan also liked(VERB1) his voice(OBJECT1) and offered many songs to him . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+After Lalu Prasad becoming the railway minister litty - chogha(SUBJECT1) is available(VERB1) in all important railway stations . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+government(SUBJECT1) is continuously trying(VERB1) to change(OBJECT1) the condition of the state . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+She(SUBJECT1) was born(VERB1) in a town named Bhadaini in Varanasi district . 
+(SUBJECT1) - Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+After six days he(SUBJECT1) met(VERB1) Bharadwaraj(OBJECT1) and Yagnyavaklya sage under a tree . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Epic(SUBJECT1) was completed(VERB1) in 2 years , seven months and 26 days . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In Kashi he(SUBJECT1) stayed(VERB1) for 15 years and studied vedas under Tulsidas . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+The government(SUBJECT1) is made(VERB1) by the political party or the alliance who achieve majority in the public election . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Modern(SUBJECT1) as well as old songs are also heard(VERB1) in these ceremonies . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Food habits(SUBJECT1) of Punjabi 's and Mughal 's like Kabab and Biryani is famous(VERB1) in many parts of Delhi . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+There is(VERB1) sub-region(SUBJECT1) in south of this which is mainly Daldali . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi University(SUBJECT1) is vary(VERB1) important(OBJECT1) among these Higher Educational Institutes , and its undertakes several colleges and research institutes . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+in the present day , its effect(SUBJECT1) has been reduced(VERB1) by quite an extent . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+because of vary large form production of cement concrete there are(VERB1) not any remedy(SUBJECT1) to meat it on underwater and river . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Of total vehicle in delhi 30 %(SUBJECT1) are private vehicles(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+situated in the eastern plains of Ganga , this state 's average height(SUBJECT1) is 173 feet(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+There are(VERB1) tombs(SUBJECT1) of Mahatma Gandhi and other important leaders at Raj Ghat . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+delhi(SUBJECT1) is a favourate place(VERB1) for foregion buisnesman after 1990 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Lata(SUBJECT1) denied(VERB1) to sing(OBJECT1) any duet with Rafi and for many years both of them did not lend their voices to the same song . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+slowly his fame(SUBJECT1) spread(VERB1) -ed trough(OBJECT1) out so much that every sang was made given him to sing . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+It(SUBJECT1) clear(VERB1) that by the Hindi Wikipedia the users of people who using Hindi in internet their numbers will increase(OBJECT1) . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Many(SUBJECT1) of rivers and streams coming from Himalayas flow(VERB1) through Bihar and drains in the Ganga . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+In 1961 , Rafi(SUBJECT1) received(VERB1) his second Film - Fair award(OBJECT1) for his song ' Teri Pyari Pyari Soorat Ko ' , from the film ' Sasural ; . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In year 1851 , Laxmibai(SUBJECT1) gave(VERB1) birth(OBJECT1) to a son but the child died at age of four months . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In the year 1946 , Mohammad(SUBJECT1) Rafi decided(VERB1) to come(OBJECT1) to Bombay . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+There will be(VERB1) a drastic fall(SUBJECT1) in temperature and can go as low as lowa as - 0.6 degree Centigrade ( 30.9 degree Fahrenheit ) 
+(VERB1) - VerbForm=Inf
+(SUBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Before 3000 BC this river(SUBJECT1) which flows through Delhi in North ridge was present(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Indian Engineering Institute(VERB1) , Delhi : This is Asia 's best institute for science and technology . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In the year 1960 , the end(SUBJECT1) of this year was not healthy(VERB1) after receiving the title of his career . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+So these regions(SUBJECT1) are called(VERB1) Yamuna par(OBJECT1) and they are also joined by many bridges from New Delhi . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+But Queen(SUBJECT1) Lakshmibai had decided(VERB1) to save(OBJECT1) Jhansi at any cost . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In the year(VERB1) 1947 after gaining independence from Britishers 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+During the decade of 1991 to 2001 Delhi 's population rate(SUBJECT1) of increment was 47.02 %(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Religious festivals(SUBJECT1) include(VERB1) Diwali(OBJECT1) , Holi , Dushera , Durga Puja , Mahavir Jayanti , Guru Parab , Christmas , Mahashivratri , Id - Ul - Fitr , Buddha Jayanti , Lohri , Pongal and Onam . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Zardozi(SUBJECT1) ( embroidery by a gold thread ) and Minakari ( Inlay work on brass articles ) are famous kinds(VERB1) of art forms from Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Shankar(SUBJECT1) - Jaikishan were RajKapoor 's favorite Composers(VERB1) , but Raj Kapoor liked only Mukesh 's Voice . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Besides this , Raju(SUBJECT1) Bharatan found(VERB1) that between 1049 and 1987 , only 35,000 Hindi songs were recorded(OBJECT1) in all . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Patliputra(SUBJECT1) is historic name(VERB1) of Patna which is capital of Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Her childhood name(SUBJECT1) was Manikarnika(VERB1) , but she was called Manu with love . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+At that time the same story(SUBJECT1) was being told(VERB1) , which he had heard(OBJECT1) from his teacher . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Tense=Past|VerbForm=Part
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Yamuna(SUBJECT1) comes(VERB1) from tributory river of himalya so it always full of water . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In the year 2006 - 07 twenty three million passengers(SUBJECT1) used(VERB1) this airport(OBJECT1) making it the biggest airport in South Asia . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Then his patriotism(SUBJECT1) developed(VERB1) and he took permission from his teacher and went to his birthplace . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+The members(SUBJECT1) of the higher assembly or the Legislative Council are elected(VERB1) in an indirect fashion for a period of six years . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+to assist him , the wind(SUBJECT1) also started(VERB1) blowing(OBJECT1) at great speeds . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The playing(SUBJECT1) of Shehnai during the marriage is a common thing(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Varuna(SUBJECT1) said(VERB1) that with his loop and water , this lad would always remain(OBJECT1) safe and secure . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) has also been referred(VERB1) to in the ancient times in the Mahabharata wherein it has been referred to as ' Indraprastha ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+because of this racism , many people(SUBJECT1) have changed(VERB1) their last names(OBJECT1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Today in the river fall(VERB1) the most(OBJECT1) of the begrimed of city . 
+(VERB1) - 
+(OBJECT1) - Degree=Sup
+
+------------------------------
+------------------------------
+
+New Delhi(SUBJECT1) also has(VERB1) important government offices(OBJECT1) , government resthouses and other building of the British era . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+many multi international companies(SUBJECT1) open(VERB1) their headquarter(OBJECT1) at delhi and its near about just like pepsi , gap etc . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+rajendra(SUBJECT1) Kumar , dilip Kumar , and dharmendra doest wanted(VERB1) any singer to sing(OBJECT1) for them . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+One dy(VERB1) he set out to go around in clockwise direction . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In rainy season , flood(VERB1) in the major problem in these rivers . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+The pair(SUBJECT1) of Music Composers , Laxmikant and Pyarelal had(VERB1) their debut(OBJECT1) with Rafi 's voice and in 1963 , created beautiful songs for the film ' Parasmani ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Year 1853 , raja Gangadhar 's health(SUBJECT1) dedoriated(VERB1) badly and was advised to adopt a son . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) begins(VERB1) in the south from Aravali mountains and goes up to western , north - western , north - east regions . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+But Queen(SUBJECT1) successfully escaped(VERB1) from the English men with damodar Raav . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Musician(SUBJECT1) Naushad give(VERB1) him a chance(OBJECT1) to sing in the film ' Pehle Aap ' . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+in the southern Pathri region , the slopes(SUBJECT1) are leveled(VERB1) and mountain ranges have created natural lakes . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Seeing(SUBJECT1) the plight of Hanuman the Wind God became(VERB1) very angry(OBJECT1) . 
+(SUBJECT1) - VerbForm=Ger
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+At present situation it(SUBJECT1) is programed(VERB1) to run(OBJECT1) in six lanes which joins maximun areas of delhi . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+it(SUBJECT1) is in the form(VERB1) of wiki , which is such a webpage which allows everyone to edit it . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In 1969 , Shakti(SUBJECT1) Samant was producing(VERB1) his own movie(OBJECT1) where ho chose Sachin Dev Burman ( which is also well known as the name Dada ) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+in the kasi roopi garden he(SUBJECT1) walked(VERB1) in the middle of Tulsi plants . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+The peak Aamane similar city(SUBJECT1) in the north to the south stretches(VERB1) Rajkot(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+After gaining independence people from various regions came(VERB1) and settled in Delhi which has led to great change to the character of Delhi . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) was ruled(VERB1) by Khilajis , Tugalakhs , Lodhis and some others too . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The Qutub festival(SUBJECT1) is a nation - wide event(VERB1) for singers and performers alike which makes spans a few fun filled , grand nights . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Exquisite examples(SUBJECT1) of handicrafts and handloom articles can be seen(VERB1) at art bazaars like Pragati Maidan , Delhi Haat , and Hauz Khas . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+To cater to the needs of public transport , Government(SUBJECT1) has started(VERB1) a Mass Rapid Transit System(OBJECT1) , Called Delhi Metro . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is a major junction(VERB1) on the map of Indian Railways . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+thus other than Raj Kapoor Movies , Shankar(SUBJECT1) - Jaikishan , offered(VERB1) Rafi every chance(OBJECT1) to sing . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Things being so , it is difficult(VERB1) to believe(SUBJECT1) that Rafi has sung 28,000 but some sources still hold this view . 
+(VERB1) - Degree=Pos
+(SUBJECT1) - VerbForm=Inf
+
+------------------------------
+------------------------------
+
+On the earth , among the seven mystics who have been granted the blessing of immortality , Bajrangbali(SUBJECT1) is also one(VERB1) of them . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+Revolt(SUBJECT1) of Champaran is among the first(VERB1) during independence movement . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos|NumType=Ord
+
+------------------------------
+------------------------------
+
+once bihar(SUBJECT1) was counted(VERB1) one(OBJECT1) of the best state to serve education . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - NumType=Card
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Her mother 's name(SUBJECT1) was Bhagirathi(VERB1) Bai and father 's name was Moropant Tombe . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+However , debate(SUBJECT1) is going(VERB1) on about the trustworthiness and the truthfulness of Wikipedia . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+From there he(SUBJECT1) left(VERB1) for Kashi and stayed at the river banks of the home of a sage in Pralhadghat . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+After this Tulsi Das(SUBJECT1) went(VERB1) to Kashi on the order of lord . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+His flower(SUBJECT1) like poetry is very beautiful(VERB1) , which is always circled by Shri Ram like bee . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+The state ’s average temperature(SUBJECT1) in summer season is 35 - 45 degrees(VERB1) whereas in winters it ranges from 5 - 15 degrees . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+There he(SUBJECT1) narrated(VERB1) the Shricharitramanas(OBJECT1) to Lord Vishvanath and Mata Annapurna . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In ancient era , the emperor(SUBJECT1) of Magadh was one(VERB1) of among the strongest empires of the country . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+The mountainous region(SUBJECT1) of the north is part(VERB1) of Someshwar Mountains range . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Yamdev(SUBJECT1) blessed(VERB1) him(OBJECT1) with a long life in which he will not be killed and shall remain free from any disease . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The Delhi Metro(SUBJECT1) was launched(VERB1) on Christmas day in 2002 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+This tower(SUBJECT1) was built(VERB1) in the memory of sufi sage quthabudin bakthiar kaki . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Soon musician(SUBJECT1) Sachin Dev Burman and the renowned O.P. Nayyar started(VERB1) loving(OBJECT1) Rafi 's voice and they started having Rafi sing . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After coming there he(SUBJECT1) saw(VERB1) that his family had been destroyed(OBJECT1) . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+it is been said(VERB1) that Rafi sahib unknowingly was the reason(SUBJECT1) for the singers like Manna de , Talatmehmood and Hemant kumar ’s downfall . 
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(SUBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Delhi having(SUBJECT1) an area of 1483 square kilometers is India 's third largest metropolitan city(VERB1) . 
+(SUBJECT1) - VerbForm=Ger
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Moropant(SUBJECT1) is a marathi brahmin(VERB1) and is woeking with a person called Bajirao . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+There 's(VERB1) portrait(SUBJECT1) of Rani Lakshmibai on the postage stamp dedicated to martyrs of 1857 freedom fight . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Inside him evolved(VERB1) the poetic ability(OBJECT1) and he started writing Sanskrit poems . 
+(VERB1) - 
+(OBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Nalanda university(SUBJECT1) , Vikramshila university and Odantpuri university were the the prestigious educational centers(VERB1) in ancient Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Tulsidas(SUBJECT1) is also considered(VERB1) to be an Avatar(OBJECT1) ( incarnation ) of Sage Valmiki who wrote the original epic Ramayana . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The hot Lord Sun(SUBJECT1) took(VERB1) for an innocent child and did not burn him . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Rajir(SUBJECT1) and nearby Rajgrih is first capital(VERB1) of magadh empire and an important tourist place of Hindu , Jain and Bauddh religion . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The natural shape(SUBJECT1) of mountains were the perfect place(VERB1) for many reproductive lakes . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+in the year 1998 , the Supreme Court(SUBJECT1) ordered(VERB1) all Delhi public transport vehicles(OBJECT1) to run on compressed natural gas instead of diesel . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is not only the capital(VERB1) of India but also a main tourist destination . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+General educated peoples(SUBJECT1) are also getting(VERB1) famous(OBJECT1) for interest and knowledge because of the big writing like Manas . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In this Salamat raho and woh jab yaad aye are ( with Lata Mangeshkar ) exceptional(VERB1) . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+After the ' mutiny of 1857 ' Delhi(SUBJECT1) came(VERB1) under the British Rule and Administration . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+After adopting a son King Gangadhar(SUBJECT1) Rao died(VERB1) on 21st Nov ,1853 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Delhi 's major part(SUBJECT1) is from north(VERB1) to south and is very broad from east to west . 
+(SUBJECT1) - Number=Sing
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Average annual rainfall(SUBJECT1) is nearly 714 mm(VERB1) ( 28.1 Inches ) 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Some(SUBJECT1) of the important monuments are Rastrapathi bhavan(VERB1) , Central secretariat , Rajpath , Parliament and Vijay chawk . 
+(SUBJECT1) - 
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Along with this the local specialties(VERB1) like Chat etc ; you get in plenty , which people have a lip smacking go at it . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) has(VERB1) the thickest road density(OBJECT1) in India with 1922.32 K.M road per 100 square kilometer of area . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+His death(SUBJECT1) on 31 July 1980 was due to heart attack(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The popularity(SUBJECT1) of this musical instrument is because of Bismillah(VERB1) Khan , who was born in Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The Queen(SUBJECT1) fled(VERB1) from Jhansi to Kalpi and met Tatya Tope . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Wikipedia(SUBJECT1) is such a state(VERB1) which does n't give chance to complaint , but it gives chance to solve our complaint . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+.(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+The four major railway stations(SUBJECT1) are : New Delhi Railway Station(VERB1) , Delhi Junction , Sarai Rohilla and Hajrat Nizamuddin Railway station . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+From here , Maurya dynasty(SUBJECT1) , Gupta dynasty and many other dynasties has ruled(VERB1) to maximum regions of country . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+without teaching the child Rambola(SUBJECT1) has pronounced(VERB1) Gayatri Mantra(OBJECT1) and everyone was amazed by this . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Other types(SUBJECT1) of festivals like Mango festival , Kites Flying festival , Vasant Panhcami are organized(VERB1) annually . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+This mountain range(SUBJECT1) is at an altitude(VERB1) of 455 meters and its highest mountain 874 meter tall . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Angels(SUBJECT1) like Yaksha king Kubera , Viswakarma also blessed(VERB1) him(OBJECT1) with a bounty of boons . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Bus , Autos and Metro rails(SUBJECT1) are the main means(VERB1) for Public transportation in Delhi . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Plur
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Sasaram(SUBJECT1) is the mausoleum(VERB1) of Shershah , which is made in Afghan style and it is the great model of architecture . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+By way of Air travel , Delhi Indira Gandhi International Airport(SUBJECT1) is connected(VERB1) to the whole world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) performed(VERB1) rites(OBJECT1) of hid forefathers and statrted to tell the story of Rama by staying there . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) saw(VERB1) that two handsome prince(OBJECT1) with their weapons riding horses . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Her mother(SUBJECT1) bagirathi bai is noble woman(VERB1) and a well learned in sanskrit . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+.(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Jhansi(SUBJECT1) became(VERB1) the hub(OBJECT1) of 1857 struggle , where violence flare up . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+But whatever poems(SUBJECT1) he composed in the day time disappeared(VERB1) in the night . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Mohommad(SUBJECT1) Rafi and his elder brother was also came(VERB1) to listen his program . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+At the same time when Hanuman tried to catch Sun , Rahu(SUBJECT1) wanted(VERB1) to take(OBJECT1) hold of Sun . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Many places(SUBJECT1) related to Bhagwan Buddha and Vardhman Mahavir is highly sacred(VERB1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+since then , all the public transport vehicles(SUBJECT1) have been running(VERB1) on CNG only . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+In 1965 , music directed by Lakshmi - Pyare for the film Dosti , Mohammad(SUBJECT1) rafi got(VERB1) 3rd filmfare award(OBJECT1) for the song Chahunga main tuze saanj sawere . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Although Shahdara(SUBJECT1) , Bhajanpura etc are west end(VERB1) as well as they are big market place . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The first freedom revolt(SUBJECT1) was completely ceased(VERB1) by British , subsequently they expelled ' Bahadurshah Zafer ' to Rangoon and whole India entirely came under British Governance . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The tomb(SUBJECT1) of Saftharjung and Humayun are good examples(VERB1) of four garden style of Mughal gardens . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Besides this , here Continental foods(SUBJECT1) like Italian and Chinese dishes are also available(VERB1) in variety . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is connected(VERB1) to five major metropolitan cities of India via National Highways . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+.(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Musical song(SUBJECT1) by Naushaad ' Tera Khilona Tuta ' ( film Anmol Ghadi , 1946 ) gave(VERB1) Rafi his first fame(OBJECT1) in Indian cinema . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Like many other parts of India , cricket(SUBJECT1) is the most popular game(VERB1) here too . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+For the sake of Administrative reforms , Bihar(SUBJECT1) is divided(VERB1) into 9 Divisions and 38 Districts . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+If you feels that any information is not complete or wrong , then you(SUBJECT1) can add(VERB1) subtract(OBJECT1) or correct it . 
+(SUBJECT1) - Case=Nom|Person=2|PronType=Prs
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Mugal king Himayu(SUBJECT1) , defeated(VERB1) the Afghans(OBJECT1) in war near Sarhind and occupied Delhiwithout any objection . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After it , one more idea(SUBJECT1) was proposed(VERB1) for testing the book . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+A third and bigger stream(VERB1) than these which was called " " Sahibi Nadi " " ( earlier named " " Rohini " " ) . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Clear translation(SUBJECT1) through Wikipedia is strictly prohibited(VERB1) , though translation through proficient persons is welcome . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is connected(VERB1) to other important and major cities via state highways and expressways ( the bracket contains the term " " expressways " " in Hindi ) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In the morning when the book was opened , on it was written Satyam shivam sundaram and below it(SUBJECT1) was the signature(VERB1) of Lord Shankar . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The empire(SUBJECT1) of king Ashoka , ruler of Maurya dynasty was spread(VERB1) up to Afghanistan in west . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+later Narahari(SUBJECT1) Swami taught(VERB1) Five Sanskar(OBJECT1) to Rambola and he stayed in Ayodhya for learning . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The way(SUBJECT1) Hanuman helped in Shri Ram and Sugriv friendship and the way they killed devils with the help of monkeys is widely famous(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) created(VERB1) his own unique identity(OBJECT1) among his contemporaries , with the sweetness of his voice and high range . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Asia 's largest auto exhibition(SUBJECT1) - " " Auto Expo " " is organized(VERB1) in Delhi as a two yearly basis . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) is prospering(VERB1) in every respect but as education is concerned it is growing fast in this category . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+Community(SUBJECT1) is male(VERB1) dominated and girls are kept under strict control . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+60 Percent(SUBJECT1) of transportation are mainly covered(VERB1) by Bus in Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Capital(SUBJECT1) of India Delhi is reputed(VERB1) for its historical and cultured monuments . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+ANCIENT AND MIDAIWAL BUILDINGS(SUBJECT1) ; KUMRAHAR PARISAR , AGAMKUNWA , MAHENDRU GHAT , ARE THE ANCIENT FORT PIECES(VERB1) MADE BY SHERSHAH . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Plur
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The main languages(SUBJECT1) spoken here are : Hindi(VERB1) , Punjabi , Urdu and English . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Rani(SUBJECT1) Lakshmibai started(VERB1) strengthening(OBJECT1) Jhansi 's security , and created a team of volunteer soldiers . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Sehegal(SUBJECT1) was refused(VERB1) to sing(OBJECT1) because of the discontinuity in power supply . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Months(SUBJECT1) from April to June are very hot(VERB1) , which have high oxidation capacity . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+In recent days , the state(SUBJECT1) of higher education has improved(VERB1) , but primary and medium education have remained like puppets . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+The ' Vinay(SUBJECT1) Patrika ' written(VERB1) after this is yet another literature of importance . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+When Hanuman touched Rahu on the upper part of Surya , Rahu(SUBJECT1) got terribly afraid(VERB1) and ran away from there . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Venuvan(SUBJECT1) , Saptparni cave , Gridhkut Parvat , Jarasandh Akhara , Hot water Kund , Makfdum Kund etc. are important sight(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Tulsidas(SUBJECT1) never described(VERB1) related(OBJECT1) to his creations , that 's why there is lack of evidence related to authentically written poems . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+He(SUBJECT1) made(VERB1) his distinct position(OBJECT1) amongst the other singers of his time with the sweetness and richness in the range of his voice . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+R.R. region(SUBJECT1) also have(VERB1) regions(OBJECT1) like Gurgaon , Noida of nearby states attached to its boundary . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Initially the hold the rule from Calcutta ( presently is Kolkata ) but in 1911 the capital(SUBJECT1) was shifted(VERB1) to Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Delhi 's municipal corporation(SUBJECT1) is the World 's biggest municipal corporation organisation(VERB1) which provides service to almost 167.80 lacs people . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Because of the geographical nearness to the capital of Delhi , New Delhi the political(SUBJECT1) and other activities gets(VERB1) more attention(OBJECT1) . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+OBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In history , Delhi(SUBJECT1) has also been a very important commercial center(VERB1) of eastern India . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+These National Highways(SUBJECT1) are National Highway(VERB1) 1 , 2 , 8 , 10 and 24 . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+According to the third stage of plan , they(SUBJECT1) are panning(VERB1) to join cities like Gajiyabad , Faridabad etc. with national capital . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+After this Rafi(SUBJECT1) sang(VERB1) for Shaheed , Mela and Dulari which were very famous . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+There is(VERB1) war(SUBJECT1) on the number of songs Rafi had sung i his life . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) is known(VERB1) as Bajrang Bali , as his body was as strong as Vajra ( the toughest material ) . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Near bihar Nepal(SUBJECT1) is there(VERB1) , Next to bihar Bengal , Beside bihar Charkhand is there . 
+(SUBJECT1) - Number=Sing
+(VERB1) - PronType=Dem
+
+------------------------------
+------------------------------
+
+Apart from this , football(SUBJECT1) , hockey , tennis and golf is also favored(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Districts(SUBJECT1) are further divided(VERB1) into 109 Sub-Divisions , 534 Blocks , 8,471 Panchaysts ( Boards ) and 45,103 Villages . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The main server(SUBJECT1) of Wikipedia is at Tampa(VERB1) , Florida , additional server is at Amsterdam and Seoul . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+After the death of Himayu , in the leadership of Hemu Vikaramaditya Afghans defeated(VERB1) the Mugal army(OBJECT1) and again captured Delhi and Agra . 
+(VERB1) - 
+(OBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+In front of lord Vishwanath ; Vedas(SUBJECT1) , Shastras , Puranas and Ramcharitmanas were kept(VERB1) from top to bottom . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Rainy Season(SUBJECT1) starts(VERB1) from July - August and goes on till October . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Rising(SUBJECT1) from the south - west joined(VERB1) the Yamuna(OBJECT1) at the north of the ridge . 
+(SUBJECT1) - VerbForm=Ger
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+There is(VERB1) equanimity(SUBJECT1) and bonding among the different language literature which is ” unbiased outlook ” . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+People(SUBJECT1) present(VERB1) there even heard(OBJECT1) the sound of ' Satyam shivam sundaram ' . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Mood=Ind|Tense=Past|VerbForm=Fin
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+For every district there is(VERB1) a deputy commissioner(SUBJECT1) and 3 sub districts . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The empire(SUBJECT1) of Maurya dynasty was from 325 B.C.(VERB1) to 185 B.C. 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Hanuman 's cheek(SUBJECT1) ( ' hanu ' in Sanskrit ) was hit(VERB1) and broken by Indra 's powerful Vajra weapon , due to which he got the name Hanuman . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Main Bus service(SUBJECT1) of Delhi is provided(VERB1) by Delhi Transportation controlled by Government of Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Indian Archeological Survey Department(SUBJECT1) has found(VERB1) out 1200 ponds(OBJECT1) in Delhi which is bigger in number than other cities of world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+During the early days of his career he(SUBJECT1) sung(VERB1) for the music composer duo Lakshmikant - Pyarelal ( known popularly as Lakshmipyare ) for very low fee . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+After singing for actors such as Dileep Kumar , Bharat Bhushan and Devanand , the number(SUBJECT1) of actors acting for his songs started(VERB1) increasing(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Tulsi(VERB1) Das 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+BRITISH PERIOD BUILDINGS(VERB1) ; JALAN MUSEUM , GOLGHAR , PATNA MUSEU , LAGISLATIVE ASSEMBLY MEETING HALL BUILDING , HIGHCOURT BUILDING , SADAKAT AASHRAM . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+from behind lord Hanuman(SUBJECT1) came(VERB1) and explained and the he felt very bad . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+during the period 1950 Jaykishan , Naushad(SUBJECT1) and Sachindevburman have made(VERB1) Rafi to sing(OBJECT1) many hit songs . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Women(SUBJECT1) were also enrolled(VERB1) in the team and they have been given training of war . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+These two songs(SUBJECT1) became(VERB1) very popular(OBJECT1) and also Ralesh Khanathe actor of the film including film director got huge popularty . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Humidity(SUBJECT1) increases(VERB1) by the end of June , which brings the Monsoon rains . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+valuable things(SUBJECT1) obtained from old object and the object itself is the proof(VERB1) for the ancient town . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+In terms of area also it(SUBJECT1) is second to Tokyo(VERB1) only . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Many national festivals(SUBJECT1) like Republic day , Independence day and Gandhijayanthi is celebrated(VERB1) with gaiety . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+N.T.(VERB1) Rama Rao ( for Telugu films Bale Tammudu and Aradhana ) , Akkineni Nageswara Rao ( for Hindi film - Swarna Sundari ) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Hauman(SUBJECT1) is known(VERB1) as the son of the wind because Air ( the deity for wind ) played a vital role in bringing up Hanuman . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+As most parts of Bihar are still villages , traditional Indian games(SUBJECT1) such as Kabbadi , gilli-danda , Goli ( marbles ) are very popular(VERB1) here . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+This(SUBJECT1) has started(VERB1) in 29 January 2001 as complementary to Nupedia , encyclopedia made by experts . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+Though writing(SUBJECT1) and art of different cultures can be linked(VERB1) through interwiki , but translation of writing still requires gaining acceptance . 
+(SUBJECT1) - VerbForm=Ger
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The Delhi-Gurgaon expressway(SUBJECT1) connects(VERB1) Delhi(OBJECT1) to Gurgaon and the International Airport . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Here , Boddh and Jain religion(SUBJECT1) has taken(VERB1) birth(OBJECT1) in 6 B. C. and 5 B.C. 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Once he hear something from Teacher , he(SUBJECT1) immediately registers(VERB1) in the memory . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+SUBJECT-VERB PERSON AGREE
+------------------------------
+------------------------------
+
+Hanuan(SUBJECT1) Father Kesari was king(VERB1) of Sumeru Parvat and hanuman mother name was Anjana . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+This(SUBJECT1) is worlds second largest book fair(VERB1) , in which 23 countries are participates from all around the world . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Valmikinagar(SUBJECT1) is the only town(VERB1) situated near to this forest region . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+as secondary education is concerned a vast population ofchildren(SUBJECT1) are getting(VERB1) it(OBJECT1) in Secondary Schools . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Some historians(SUBJECT1) believe(VERB1) that it is a part(OBJECT1) of Dehli which in Indian language means lintel that indicates the gateway to the Indus -Ganga plain . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Sikhs tenth Guru Govind Singh 's birth place(SUBJECT1) Patna also celebrates(VERB1) his birthday(OBJECT1) with great heart . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi transportation(SUBJECT1) gives(VERB1) immense environmental service(OBJECT1) in compere to the world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+His differences(SUBJECT1) with Lata Mangeshkar regarding the royalty of songs was an example(VERB1) of his greatness . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Rafi 's voice(SUBJECT1) started(VERB1) singing(OBJECT1) background vocals for Shammi Kapoor , Rajendra Kumar , Joy Mukherjee , Vishwajeet , Rajesh Khanna , Dharmendra and other actors . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+There one day he(SUBJECT1) found(VERB1) a ghost(OBJECT1) , who told him the address of Hanuman Ji. 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Articles(SUBJECT1) of 31 languages along with article of Mahatma Gandhi in Hindi are linked(VERB1) , which can be read(OBJECT1) as article written in Gujarati . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+CIRCULAR PLACES(VERB1) ; HAWELI OF PADRI , HARTEMPLE , BIG PATANDEVI , MAHAVIR TEMPLE , SHERSHAH'S MUSJID , BEGU HAZZAM'S MASJID , MASJID OF STONES , JAMA MASJID , BADI KHANKAH AND SHUAMDI0 ASHUIDAA IN FULWARI SHARIF . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Hanuman(SUBJECT1) convinced(VERB1) him(OBJECT1) and told that again they will come in the evening . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+It(SUBJECT1) is surrounded(VERB1) by Aravalli hills in the south - west and Yamuna river in the east , on whose banks it is situated . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Along with playback singer kishor(SUBJECT1) Kumar became(VERB1) the 1st choiceof public(OBJECT1) and also 1st choice of music directors . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+They(SUBJECT1) got(VERB1) the permission(OBJECT1) , in age of 13 year old , Mohommad Rafi did his first performance in public . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After these Monsoon winds(SUBJECT1) run(VERB1) here from July , which bring rain . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+There is(VERB1) a village(SUBJECT1) called Sookarketh Rajapur near Ayodhya in Ghonda district where lived a brahman of sarayu-tradition by name Atmaram Dubey . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Gaya(SUBJECT1) and Boddhgaya is most important sight(VERB1) of Buddhisht in addition Hindus . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+we(SUBJECT1) obtain(VERB1) a summary(OBJECT1) of its history and changing heirs of royal kingdom after year 1000 . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=1|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+this(SUBJECT1) was started(VERB1) on 24th December , 2002 , first and ran between Shahdara and Tis Hazari lines . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The famous religious places(SUBJECT1) of all religions are here(VERB1) like Birla Mandir , Adhya Katyayini Shaktipeeth , Gurudwara Bangla Sahib , Bahai Lotus Temple and Jama Masjid . 
+(SUBJECT1) - Number=Plur
+(VERB1) - PronType=Dem
+
+------------------------------
+------------------------------
+
+Mohammed Rafi 's voice(SUBJECT1) inspired(VERB1) a number(OBJECT1) of artists in upcoming days . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+This(SUBJECT1) varies(VERB1) from the plain agricultural lands in north to humid Aravalli hills in the south . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) still has(VERB1) the evidences(OBJECT1) of ' Rise and Fall ' of many ruling dynasties at present . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+then queen laxmibai(SUBJECT1) took(VERB1) the help(OBJECT1) of advocate john lang and filed the petition in London court . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Municipal corporation(SUBJECT1) oversees(VERB1) the work(OBJECT1) of around 1697 square km . area . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+After becoming capital of British India in year 1911 , the population(SUBJECT1) of delhi started(VERB1) growing(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+On the Independence day the prime minister(SUBJECT1) of India addresses(VERB1) the people(OBJECT1) here from the Red Fort . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The high population growth rate(SUBJECT1) and increasing economic rate keeps(VERB1) pressurizing(OBJECT1) the infrastructure of the Delhi City . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+It is said(VERB1) that once he saw Talat Mehmood smoking and changed his mind and asked Rafi to sing instead . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Rafi(SUBJECT1) wrote(VERB1) a letter(OBJECT1) to Guiess Book to negociate about it . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Anrasa Candy(SUBJECT1) , Khaja , Motichur Laddoo , Tilkut are the favourite sweets(VERB1) among varities of sweets . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Villages matters(VERB1) executed under the ' Headmen , ' Sarpanch ' ( Foremen ) , and Ward - Members , which came through direct electoral . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Now this(SUBJECT1) is run(VERB1) by Wiki media which is a non profit organization . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The grandson(SUBJECT1) of Akbar , Shahjahan ( 1628-1658 ) has re established(VERB1) it(OBJECT1) seventh time which is called Shahjahanabad during the middle of seventeenth century . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Its excess water(SUBJECT1) started(VERB1) going(OBJECT1) into the Najafgad lake via the rear path . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The D.N.D. flyway(SUBJECT1) and the Noida - Greater Noida expressway connect(VERB1) Delhi(OBJECT1) to the two major suburbs . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+They(SUBJECT1) began(VERB1) bickeringin(OBJECT1) groups about Tulsidasji and began attempting to destroy his books . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Among them are Sonu(VERB1) Nigam , Mohammed Aziz and Udit Narayan - Though most of them now have their own identity . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+A vast plain land(SUBJECT1) named Mdhyavarti occupies(VERB1) 95 %(OBJECT1) of this area . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Srimad Valmiki Ramayan(VERB1) ( First and Second chapters ) , with pictures and Hindi translation , Publisher and Copyright : Gita Press , Gorakhpur . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Recently BRT(VERB1) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Old cities(VERB1) where Mogul or Turkics built some monuments as an example Jamma Masjid or Lal Killa which are big mosques . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Shammi(SUBJECT1) Kapoor was so influenced(VERB1) by Rafi 's voice that he used(OBJECT1) him in every song . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Mood=Ind|Tense=Past|VerbForm=Fin
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After meeting Hanuman Ji , Tulsi(SUBJECT1) Das Ji begged(VERB1) him to meet(OBJECT1) Shri Raghunath Ji. 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+KNOWLEDGE(VERB1) AND SCIENCE CENTERS ; PATNA UNIVERSITY , KHUDABUX LIBRARY , SACHHIDANAND SINHA LIBRARY , SANJAY GANDHI BIOGRAPHIC GARDEN , SHRI KRISHN SINHA SCIENCE CENTRE , INDRI GANDHI PLANATOURIUMAND SCIENCE BOUNDRIES . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+in north bihar rivers vagmathi(SUBJECT1) , koshi , budhi gandhak , gandhak , dadar and their tributaries join(VERB1) together . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+In the year 1608 on the Wednesday in - front of him he(SUBJECT1) saw(VERB1) the God(OBJECT1) . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In the ancient period it(SUBJECT1) was the main halting point(VERB1) in the path of the trade routes passing through Gangetic Plains . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+During her childhood Manu(SUBJECT1) learned(VERB1) many sastras(OBJECT1) and became a pandit . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In Mehrouli , New Delhi , there is(VERB1) a metallic pillar(SUBJECT1) built in the Guptas ' era . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Kings(SUBJECT1) of neighborhood states Orachha and Datiya have also attacked(VERB1) Jhansi(OBJECT1) in September and October of 1857 . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Shyam(SUBJECT1) Sunder was also in audience(VERB1) , who was vary famous composer of that time , who listen and get vary attracted . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+October - November(SUBJECT1) is early winter period(VERB1) which is pleasant with a little coolness . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+And today being new-moon day when I went to catch Su , I(SUBJECT1) saw(VERB1) another Rahu(OBJECT1) who was about to catch Sun " " . 
+(SUBJECT1) - Case=Nom|Number=Sing|Person=1|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+On the occassion of Pitripaksh Hindus from all over world gather(VERB1) here and perform Tarpan to their ancestor on the bank of Falgu river . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+The city 's things(SUBJECT1) of Delhi got(VERB1) some special gifts(OBJECT1) due to its global beauty of surrounding land with Aravali forests . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+this transport 's maximum(SUBJECT1) reaches(VERB1) up to 80 km / hr ( 40 miles / hr ) and it stops for about 20 seconds at every station . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+The memorial(SUBJECT1) of martyrs of country , ' India Gate ' , on Rajpath is also built(VERB1) in this city . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+There used(VERB1) to be(OBJECT1) a number of natural lakes in Delhi which have mostly dried up now due to excessive mining . 
+(VERB1) - 
+(OBJECT1) - VerbForm=Inf
+
+------------------------------
+------------------------------
+
+In true sense , Delhi(SUBJECT1) is the harmonious mixture(VERB1) of Future , Past and Present contexts of our country . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+When priests found no trick they(SUBJECT1) inspired(VERB1) Shri Madhusoodan Saraswati(OBJECT1) 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+New Delhi Municipal corporation(VERB1) : ( NDMC ) 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+According to 2008 statistics , there were(VERB1) 44 lakh vehicles(SUBJECT1) within the boundaries of Delhi City . 
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(SUBJECT1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Baiju Baavera 's songs(SUBJECT1) helped(VERB1) Rafi establish(OBJECT1) himself as a mainstream singer . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After corrections , Guiness Book(SUBJECT1) published(VERB1) both their statement(OBJECT1) and gave Muhamad Rafi 28,000 recorded songs between 1944 and 1980 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In future tense the big region(SUBJECT1) of powerbase city of bihar is one pittance(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Local dishes(SUBJECT1) like sattu , dahi-chuda , litti-chokha are the favourite food(VERB1) of localites . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+One of the industrially backward States of India , agriculture(SUBJECT1) is the main source(VERB1) of income for the people of Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In the mid-2006 it(SUBJECT1) had(VERB1) more than 4.6 million articles(OBJECT1) , in English language itself there were more than 1.2 million article . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Shahjahanabad(SUBJECT1) is called(VERB1) Old city(OBJECT1) or Old Delhi in common language . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) apologized(VERB1) to Tulsi Das and touched his feet with honour . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Millets(SUBJECT1) , Wheat , Corn , Tobacco , Vegetables , Banana , Mango , Litchi and other fruits are cultivated(VERB1) here . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Till about 70 years ago the size(SUBJECT1) of this lake was 220 square kilometers(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+According to Alexa the traffic(SUBJECT1) of English in Wikipedia could generate(VERB1) only 60 %(OBJECT1) of the total . 
+(SUBJECT1) - Number=Sing
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+There is(VERB1) a separate International Airport(SUBJECT1) proposed to be constructed at Noida , also planned is the Noida Indian Grand Prix . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi 's district administration(SUBJECT1) contorls(VERB1) all type(OBJECT1) of state and central policies . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) saw(VERB1) off from one Ghats of Patliputra ( Presently Patna ) which is known as Mahendru Ghat by the name of Mahendra . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Constitutional chief(SUBJECT1) of state is Governor(VERB1) , but real pwer is in the hands of chief minister and his cabinet . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+From the beginning of 1940 until 1980 he(SUBJECT1) sang(VERB1) a total(OBJECT1) of 26,000 songs . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+" " Dhilli(SUBJECT1) " " in Hindi / Prakrit was also used(VERB1) for this area which ultimately became " " Delhi " " . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+there three important places(VERB1) such as Lal Killa , Kutab Minar and Makbora of Humayun . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+After Mumbai , Delhi(SUBJECT1) is one(VERB1) of the biggest commercial cities in India . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+Although he was provided music by O.P. Nayyar or Shankar Jaikishan , the voice(SUBJECT1) was always Rafi's(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+In the form of a child he(SUBJECT1) called(VERB1) Tulasidas(OBJECT1) as Baba . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+This city(SUBJECT1) situated on the banks of Yamuna river has(VERB1) a glorious mythological history(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In 1842 she(SUBJECT1) was married(VERB1) with a king called Gangadharrao nivalkar in Jansi , and she became the queen of Jansi . 
+(SUBJECT1) - Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Still , he(SUBJECT1) sang(VERB1) many songs(OBJECT1) after it and which are hits , like , Aa duniya aa mahapil , Aa jo chilmonha , tum jo mil gai ho . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Upon hearing Rahu 's words Indra(SUBJECT1) got frightened(VERB1) and went to the Sun along with Rahu . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Three barahmasi rivers(SUBJECT1) joined(VERB1) the river(OBJECT1) of Delhi Yamuna because of the natural forests of Aravali . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Starting from the decade of 1940 up to 1980 he(SUBJECT1) sang(VERB1) a total(OBJECT1) of 26,000 songs . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) got(VERB1) 5th filmfare award(OBJECT1) for the song Dil ke zharoke me from the movie Brahmachari ( 1965 ) whose music was composed by Shankar JAykishan . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Brittani officer(SUBJECT1) has captured(VERB1) the jewelery(OBJECT1) and her husband 's debt has been accounted from the queens yearly maintenance . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+These old colonies(SUBJECT1) are still giving(VERB1) name(OBJECT1) and fame to the city and in history it is firmly etched . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Pres|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Because of these reasons , Delhi(SUBJECT1) has(VERB1) most vehicles(OBJECT1) in any city of the world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+After this Naushaad(SUBJECT1) asked(VERB1) Rafi to sing(OBJECT1) a number of songs under his directions . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+On the search after that , Vishwas(SUBJECT1) Nerurkar fond(VERB1) that Lata had in reality had sung(OBJECT1) only 5,044 songs . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Past|VerbForm=Part
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+According to ancient Hindu stories , Hanuman(SUBJECT1) is Marut-nandan(VERB1) which means Son of Wind . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Besides this , retail business(SUBJECT1) , government jobs and small business enterprises also form(VERB1) sources(OBJECT1) of revenue for the people of this State . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+This(SUBJECT1) is in more than 200 languages(VERB1) , in which 15 languages have more than 50 thousand articles . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+On That day early morning(VERB1) SriTulsidas 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Since the ancient era many empires(SUBJECT1) and kings have ruled(VERB1) Delhi(OBJECT1) and constantly its name is being changed also . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The English(SUBJECT1) , after cleaning the riverbed by removing silt from the Sahibi river , named(VERB1) it " " Nala Najafgad(OBJECT1) " " and joined it with the Yamuna . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Whereas , the other 40 %(SUBJECT1) of the traffic was among the different languages(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+The thieves(SUBJECT1) saw(VERB1) that outside Tulsidasji 's hut two brave men were guarding(OBJECT1) by standing with bow and arrow . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Pres|VerbForm=Part
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+After that , Boddh religion(SUBJECT1) has reached(VERB1) to China and from its way to Japan . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+Legislators(VERB1) elected for legislative assembly elect chief minister for 5 years , whereas governor is appointed by the president of India . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+After his birth one day his mother(SUBJECT1) went(VERB1) to bring some fruits while leaving him in Ashram only . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Besides mainstream Hindi songs(SUBJECT1) , included among these are Ghazals(VERB1) , bhajans , patriotic songs , kawaalis as well as songs in other languages . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Plur
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+, which(SUBJECT1) is organized(VERB1) one time in two years on Pragadi Maidan . 
+(SUBJECT1) - PronType=Int
+(VERB1) - Tense=Past|VerbForm=Part
+
+------------------------------
+------------------------------
+
+Tarai region(VERB1) : 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Many Governmental and private institutes(SUBJECT1) for Arts , commerceScience , industrial , Ayur science , technology and Managementare very popular(VERB1) for delivering higher standred Education . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+they(SUBJECT1) use(VERB1) CNG(OBJECT1) for Auto for which Color is Blue upside and green under line . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+other monuments India gate(VERB1) ( 18 century welcome gate ) . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+On the basis of per capita income this city(SUBJECT1) is counted(VERB1) with rich cities of the country . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+because of this difference in opinion the relationship(SUBJECT1) between the two was in bad shape(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+There are(VERB1) results are race(SUBJECT1) up mainly after searching in Google and other search engines . 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+------------------------------
+------------------------------
+
+the pair(SUBJECT1) have won(VERB1) many filmfare awards(OBJECT1) like in 1961 gharana , kajal 1965 , do badam 1966 and neelkamal in 1968 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) was built(VERB1) in the fourth century after Christ and from then till today there is no formation of rust on this . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Britani army(SUBJECT1) had started(VERB1) marching(OBJECT1) towards Jhansi in January 1858 , and in the month of May they have encircled the city . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - VerbForm=Ger
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+the song(SUBJECT1) , kya huaa tera bada , of the film ' Hum kisisa kom nahi " " made in 1977 , was the 6th and last film fare(VERB1) awarded song . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Mohommad Rafi 's 1st song(SUBJECT1) was for the one Panjabi film(VERB1) " " Gul Baloch " " , sang under direction of Shyam Sundar in 1944 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+winter period(SUBJECT1) also presents(VERB1) excessive fog(OBJECT1) and there is a cold wave which is also fatal like heatwaves . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Bhagalpur(SUBJECT1) and surrounding in addition to ancient educational place is an important industrial centre(VERB1) of Tusser silk in Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Now Yamuna(SUBJECT1) had(VERB1) switch(OBJECT1) from 20 km to its previous direction due to the change in the South Asian partitions . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+in Delhi 's public transport , the metro railways(SUBJECT1) are a very important part(VERB1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Apart from the main Hindi songs , others(SUBJECT1) like ghazals , patriotic songs , devotional songs , qawwali and songs in other languages are also included(VERB1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Anandkanane Hyasmiangmastulsitaru(VERB1) ( Sanskrit : 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+New Delhi(SUBJECT1) is a part(VERB1) of this region which was formed after the historic old Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+With average annual growth of 3.85 % , delhi population(SUBJECT1) touched(VERB1) 13.8 million(OBJECT1) in year 2001 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - NumType=Card
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The republic day parade(SUBJECT1) is a great show(VERB1) , in which India 's military power and cultural heritage are exhibited . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Chandini Chowk the old market is historically three centuries old(SUBJECT1) is famous(VERB1) for Jewels , Zari saris , and spices . 
+(SUBJECT1) - Degree=Pos
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+According to the Delhi 's 2021 Master Plan , after that there is(VERB1) a plan(SUBJECT1) of taking the Metro Rail in Delhi 's suburban areas also . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+About this time only the musician duo(SUBJECT1) Shankar - Jaykishan liked(VERB1) his voice(OBJECT1) and asked Rafi to sing for them as well . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+After Mr. Lalu Prasad became Rail Minister , Litti-chokha(SUBJECT1) is also available(VERB1) in some stations of Indian Railways . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+However , the situation(SUBJECT1) is now changing(VERB1) , thanks to the persistent efforts of the Government . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Pres|VerbForm=Part
+
+------------------------------
+------------------------------
+
+she(SUBJECT1) was born(VERB1) in a district called Maidani in Varanasi city . 
+(SUBJECT1) - Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Mr.Griyson(SUBJECT1) has mentioned(VERB1) above stated 12 texts(OBJECT1) in Encyclopeadia of Religions and Ethics . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Akshar(SUBJECT1) Dham Temple premises is the largest Hindu temple premises(VERB1) in the world . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Among major languages , English , German , French , Polish , Japanese , Swedish , Italian , Portuguese and Spanish are included(VERB1) . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+In kashi he(SUBJECT1) stayed(VERB1) with Sheshsanatan for 15 years to learn the Vedas . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Political parties(SUBJECT1) or coalitions make(VERB1) governments(OBJECT1) according to clear majority in the direct election . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+When child Hanuman felt hungry he(SUBJECT1) started(VERB1) to fly(OBJECT1) in the sky to grab the rising sun which he taught was a fruit . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Panjabi(SUBJECT1) and Mogalai Food like Kabab and Biryani is famous(VERB1) in various parts of Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Environmental Taxis(SUBJECT1) also available(VERB1) in Delhi for which it costs Rs 9.50 p to 25 rupees . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+Delhi(SUBJECT1) has(VERB1) a 30 % private vehicles(OBJECT1) out of the total number of vehicles . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Father of Nation Gandhi 's crematory(VERB1) as well as other big personalities burial ground situated at nearby . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+Lata(SUBJECT1) opted(VERB1) not to sing(OBJECT1) with Rafi and they did 'nt sung a duet for years . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Gradually his fame(SUBJECT1) rose(VERB1) so much that actors started insisting that he sing the background vocals for them . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+That(SUBJECT1) is clear(VERB1) that numbers of user will be increased(OBJECT1) using Hindi on internet by development of Hindi Wikipedia . 
+(SUBJECT1) - Number=Sing|PronType=Dem
+(VERB1) - Degree=Pos
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+in 1961 Rafi(SUBJECT1) won(VERB1) his second filmfare award sasural(OBJECT1) for the song teripyaripyarisurat . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+The beginning(SUBJECT1) of it 's history is linked(VERB1) to the Indus Valley Civilization . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In 1852 Lakshmibai(SUBJECT1) gave(VERB1) birth(OBJECT1) to a son but within 4 months the baby died . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Britani army(SUBJECT1) had occupied(VERB1) the city(OBJECT1) after the war of two weeks . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Temperature(SUBJECT1) here is extremely variable(VERB1) which goes(OBJECT1) till - 0.6 degree Celsius ( 30.9 degree Fahrenheit ) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+(OBJECT1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+In 3000 , this river(SUBJECT1) flows(VERB1) from the pavikshram of the ' Ridge ' of Delhi . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+before this , most(SUBJECT1) of the public transport was carried(VERB1) out by roadways . 
+(SUBJECT1) - Degree=Sup
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+Indian Institute(VERB1) of Technology , Delhi ; 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+These regions(SUBJECT1) are called(VERB1) other side(OBJECT1) of Yamuna , although they are well connected with the city by a number of bridges . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Kavitamanjari bhati Ramabhramarbhusita(VERB1) ( Sanskrit : 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+decade of 1991 to 2001 the rate(SUBJECT1) of population growth was 47.02 %(VERB1) 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Some(SUBJECT1) of the religious festivals include(VERB1) diwali(OBJECT1) , holi , dashara , durga puja , mahaveer jayanthi , guru parab , christmas , mahasivarathri , id-ul -fither , buddh jayanthi , lohati pongal and onam . 
+(SUBJECT1) - 
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Because of this nothing much happened(VERB1) he became(OBJECT1) famous only in that small locality . 
+(VERB1) - 
+(OBJECT1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Shankar(SUBJECT1) Jaykishan at that time were favorites(VERB1) of Raj Kapoor but Raj Kapoor liked only Mukesh 's voice for himself . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+Additionally , Raju(SUBJECT1) Bhartan found(VERB1) that only 35000 songs were recorded(OBJECT1) between 1948 and 1987 . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Tense=Past|VerbForm=Part|Voice=Pass
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+Bihar capital name(SUBJECT1) is Patna(VERB1) and Patna another name is Patliputra . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+her childhood name(SUBJECT1) was Manikarnika(VERB1) , but everyone called her Manu with love . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Year 1633 in Margashisya Shukalpaksh rams wedding ceremony(SUBJECT1) was completed(VERB1) with sevaen rituals . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+One day Kaliyug(SUBJECT1) came(VERB1) to him in human form and tortured him . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Bihar ’s rich culture(SUBJECT1) is a blend(VERB1) of Maithely , Magahi , Bhojpuri , Tirhut and Ang cultures . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Due to its beginning in the glaciers of the Himalayas the Yamuna(SUBJECT1) has always been full(VERB1) of water . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Degree=Pos
+
+------------------------------
+------------------------------
+
+In twelveth Century , Bakhtiyar(SUBJECT1) Khilzi has captured(VERB1) his ruling(OBJECT1) on Bihar . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+He(SUBJECT1) got(VERB1) home sickness(OBJECT1) and he came back to birthplace after taking permission from his teacher . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Members(SUBJECT1) of the Upper house or Vidhan Parishad are elected(VERB1) for 6 years period by indirect voting . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+More Government Offices(SUBJECT1) , Quarters and Damaged structures from British Period built by them are in Delhi(VERB1) . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Number=Sing
+
+------------------------------
+------------------------------
+
+Many multi national companies(SUBJECT1) like pepsi , gap etc has opened(VERB1) head offices(OBJECT1) in Delhi and nearby places . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Plur
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Rajendra(SUBJECT1) Kumar , Dileep Kumar and Dharmendra never agreed(VERB1) to have(OBJECT1) any other singer sing for them . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+People(SUBJECT1) will get(VERB1) another stage(OBJECT1) to use of Hindi in future . 
+(SUBJECT1) - Number=Plur
+(VERB1) - VerbForm=Inf
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+The evidences(SUBJECT1) of this fact are found(VERB1) in the excavation of surrounding regions of Haryana . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In 1853 king gangadhar(SUBJECT1) seriously got(VERB1) ill(OBJECT1) and he was advised to adopt a son . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+In the Kutub area of Delhi , the most magnificient architecture(SUBJECT1) is the Kutub Minar(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+But queen(SUBJECT1) saved(VERB1) herself(OBJECT1) from Britishers and escaped with Damodar Rav . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Mohomad(SUBJECT1) Rafi was a dedicated Musilim(VERB1) , away from all bad havitsand was a simple and gentle man . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Looking at this condition of Hanuman , the Lord(SUBJECT1) of Air ( Vayu ) got(VERB1) wild(OBJECT1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Degree=Pos
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+initially , it(SUBJECT1) ran(VERB1) on 6 routes which joined most of Delhi 's parts . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) is in the form(VERB1) of Wiki , means such a web page which allows everyone to edit it . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+Delhi metro(SUBJECT1) also crosses(VERB1) the river(OBJECT1) with the help of two bridges . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-VERB-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+National Capital Region(SUBJECT1) is extended(VERB1) in Delhi in which there are Rural division and Urban Division . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+In this Kashi like Anand Van Tulsidas is a mobile plant(VERB1) of Tulsi . 
+(VERB1) - 
+
+------------------------------
+------------------------------
+
+It(SUBJECT1) is spread(VERB1) from Saroop nagar in north to Rajori in south . 
+(SUBJECT1) - Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part|Voice=Pass
+
+------------------------------
+------------------------------
+
+The population density(SUBJECT1) of Delhi is 9294(VERB1) per sq . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+During Quthab festival musicians(SUBJECT1) and dancers get(VERB1) together which brightens some nights . 
+(SUBJECT1) - Number=Plur
+(VERB1) - Mood=Ind|Tense=Pres|VerbForm=Fin
+
+------------------------------
+------------------------------
+
+Delhi government(SUBJECT1) started(VERB1) a mass rapid transit system(OBJECT1) to meet the increasing transportation demands of the city and it is known as Delhi Metro . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------
+------------------------------
+
+Later when the popularity of Shankar Jaykishan song 's increased they(SUBJECT1) used(VERB1) Rafi to sing(OBJECT1) for them except for Raj Kapoor . 
+(SUBJECT1) - Case=Nom|Number=Plur|Person=3|PronType=Prs
+(VERB1) - Mood=Ind|Tense=Past|VerbForm=Fin
+(OBJECT1) - VerbForm=Inf
+SVO
+SUBJECT OBJECT
+
+------------------------------
+------------------------------
+
+I this situation it is difficult(VERB1) to believe(SUBJECT1) that Rafi sang 28,000 songs but some people still believe on this number of songs . 
+(VERB1) - Degree=Pos
+(SUBJECT1) - VerbForm=Inf
+
+------------------------------
+------------------------------
+
+Bajrang Bali(SUBJECT1) is one(VERB1) among the seven persons in this world , who were gifted with eternity . 
+(SUBJECT1) - Number=Sing
+(VERB1) - NumType=Card
+
+------------------------------
+------------------------------
+
+For lunch chaval - dal - sabji(SUBJECT1) and roti-sabji in dinner are the daily dishes(VERB1) . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Plur
+
+------------------------------
+------------------------------
+
+There was(VERB1) a time(SUBJECT1) when Bihar was deemed as one of the best places for education . 
+(VERB1) - Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+(SUBJECT1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+' Patna(SUBJECT1) ' is the present Capital(VERB1) of the state and a great Historical Place . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+her mother 's name(SUBJECT1) was Bhagirathi(VERB1) and her father 's name was Moropant Tambe . 
+(SUBJECT1) - Number=Sing
+(VERB1) - Number=Sing
+
+SUBJECT-VERB NUMBER AGREE
+------------------------------
+------------------------------
+
+In his life time he(SUBJECT1) has written(VERB1) 12 bbokshewasa Snskrit scholar(OBJECT1) and is considered to be one of The greatest Hindi Poets . 
+(SUBJECT1) - Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+(VERB1) - Tense=Past|VerbForm=Part
+(OBJECT1) - Number=Sing
+SVO
+SUBJECT OBJECT
+
+SUBJECT-OBJECT NUMBER AGREE
+------------------------------

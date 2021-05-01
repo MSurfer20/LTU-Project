@@ -1,6 +1,6 @@
 file=open("./telugu_annotated.txt", "r")
 data=file.read()
-sent=data.split("---------------------------------")
+sent=data.split("*********************")
 # print(sent)
 for each_sent in sent:
     print("------------------------------")
