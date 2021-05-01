@@ -1,4 +1,4 @@
-file=open("./hindi_annotated.txt", "r")
+file=open("./english_annotated.txt", "r")
 data=file.read()
 sent=data.split("---------------------------------")
 # print(sent)
